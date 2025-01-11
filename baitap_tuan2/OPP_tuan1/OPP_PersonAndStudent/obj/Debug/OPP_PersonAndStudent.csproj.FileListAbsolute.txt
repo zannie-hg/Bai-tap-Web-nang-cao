@@ -1,0 +1,7 @@
+C:\Users\hagia\Documents\C#\baitap_tuan2\OPP_tuan1\OPP_PersonAndStudent\bin\Debug\OPP_PersonAndStudent.exe.config
+C:\Users\hagia\Documents\C#\baitap_tuan2\OPP_tuan1\OPP_PersonAndStudent\bin\Debug\OPP_PersonAndStudent.exe
+C:\Users\hagia\Documents\C#\baitap_tuan2\OPP_tuan1\OPP_PersonAndStudent\bin\Debug\OPP_PersonAndStudent.pdb
+C:\Users\hagia\Documents\C#\baitap_tuan2\OPP_tuan1\OPP_PersonAndStudent\obj\Debug\OPP_PersonAndStudent.csproj.AssemblyReference.cache
+C:\Users\hagia\Documents\C#\baitap_tuan2\OPP_tuan1\OPP_PersonAndStudent\obj\Debug\OPP_PersonAndStudent.csproj.CoreCompileInputs.cache
+C:\Users\hagia\Documents\C#\baitap_tuan2\OPP_tuan1\OPP_PersonAndStudent\obj\Debug\OPP_PersonAndStudent.exe
+C:\Users\hagia\Documents\C#\baitap_tuan2\OPP_tuan1\OPP_PersonAndStudent\obj\Debug\OPP_PersonAndStudent.pdb

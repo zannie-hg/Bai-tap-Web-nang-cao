@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan2\\OPP_tuan1\\OPP_Dice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81A94056-005C-4861-874D-60959963CC23}|OPP_Dice.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan2\\opp_tuan1\\opp_dice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A94056-005C-4861-874D-60959963CC23}|OPP_Dice.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A94056-005C-4861-874D-60959963CC23}|OPP_Dice.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan2\\opp_tuan1\\opp_dice\\xucxac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A94056-005C-4861-874D-60959963CC23}|OPP_Dice.csproj|solutionrelative:xucxac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "XucXac.cs",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan2\\OPP_tuan1\\OPP_Dice\\XucXac.cs",
+              "RelativeDocumentMoniker": "XucXac.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan2\\OPP_tuan1\\OPP_Dice\\XucXac.cs",
+              "RelativeToolTip": "XucXac.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T08:41:32.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan2\\OPP_tuan1\\OPP_Dice\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan2\\OPP_tuan1\\OPP_Dice\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T08:40:17.624Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

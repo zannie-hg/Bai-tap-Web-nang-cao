@@ -1,0 +1,7 @@
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\Tuples\bin\Debug\Tuples.exe.config
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\Tuples\bin\Debug\Tuples.exe
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\Tuples\bin\Debug\Tuples.pdb
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\Tuples\obj\Debug\Tuples.csproj.AssemblyReference.cache
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\Tuples\obj\Debug\Tuples.csproj.CoreCompileInputs.cache
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\Tuples\obj\Debug\Tuples.exe
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\Tuples\obj\Debug\Tuples.pdb

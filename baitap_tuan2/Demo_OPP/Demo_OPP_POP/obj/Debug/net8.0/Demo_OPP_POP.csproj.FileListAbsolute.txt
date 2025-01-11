@@ -1,0 +1,28 @@
+D:\Kì 6\web nâng cao\Demo_OPP_POP\Demo_OPP_POP\obj\Debug\net8.0\Demo_OPP_POP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kì 6\web nâng cao\Demo_OPP_POP\Demo_OPP_POP\obj\Debug\net8.0\Demo_OPP_POP.AssemblyInfoInputs.cache
+D:\Kì 6\web nâng cao\Demo_OPP_POP\Demo_OPP_POP\obj\Debug\net8.0\Demo_OPP_POP.AssemblyInfo.cs
+D:\Kì 6\web nâng cao\Demo_OPP_POP\Demo_OPP_POP\obj\Debug\net8.0\Demo_OPP_POP.csproj.CoreCompileInputs.cache
+D:\Kì 6\web nâng cao\Demo_OPP_POP\Demo_OPP_POP\bin\Debug\net8.0\Demo_OPP_POP.exe
+D:\Kì 6\web nâng cao\Demo_OPP_POP\Demo_OPP_POP\bin\Debug\net8.0\Demo_OPP_POP.deps.json
+D:\Kì 6\web nâng cao\Demo_OPP_POP\Demo_OPP_POP\bin\Debug\net8.0\Demo_OPP_POP.runtimeconfig.json
+D:\Kì 6\web nâng cao\Demo_OPP_POP\Demo_OPP_POP\bin\Debug\net8.0\Demo_OPP_POP.dll
+D:\Kì 6\web nâng cao\Demo_OPP_POP\Demo_OPP_POP\bin\Debug\net8.0\Demo_OPP_POP.pdb
+D:\Kì 6\web nâng cao\Demo_OPP_POP\Demo_OPP_POP\obj\Debug\net8.0\Demo_OPP_POP.dll
+D:\Kì 6\web nâng cao\Demo_OPP_POP\Demo_OPP_POP\obj\Debug\net8.0\refint\Demo_OPP_POP.dll
+D:\Kì 6\web nâng cao\Demo_OPP_POP\Demo_OPP_POP\obj\Debug\net8.0\Demo_OPP_POP.pdb
+D:\Kì 6\web nâng cao\Demo_OPP_POP\Demo_OPP_POP\obj\Debug\net8.0\Demo_OPP_POP.genruntimeconfig.cache
+D:\Kì 6\web nâng cao\Demo_OPP_POP\Demo_OPP_POP\obj\Debug\net8.0\ref\Demo_OPP_POP.dll
+C:\Users\hagia\Documents\C#\baitap_tuan2\Demo_OPP\Demo_OPP_POP\bin\Debug\net8.0\Demo_OPP_POP.exe
+C:\Users\hagia\Documents\C#\baitap_tuan2\Demo_OPP\Demo_OPP_POP\bin\Debug\net8.0\Demo_OPP_POP.deps.json
+C:\Users\hagia\Documents\C#\baitap_tuan2\Demo_OPP\Demo_OPP_POP\bin\Debug\net8.0\Demo_OPP_POP.runtimeconfig.json
+C:\Users\hagia\Documents\C#\baitap_tuan2\Demo_OPP\Demo_OPP_POP\bin\Debug\net8.0\Demo_OPP_POP.dll
+C:\Users\hagia\Documents\C#\baitap_tuan2\Demo_OPP\Demo_OPP_POP\bin\Debug\net8.0\Demo_OPP_POP.pdb
+C:\Users\hagia\Documents\C#\baitap_tuan2\Demo_OPP\Demo_OPP_POP\obj\Debug\net8.0\Demo_OPP_POP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hagia\Documents\C#\baitap_tuan2\Demo_OPP\Demo_OPP_POP\obj\Debug\net8.0\Demo_OPP_POP.AssemblyInfoInputs.cache
+C:\Users\hagia\Documents\C#\baitap_tuan2\Demo_OPP\Demo_OPP_POP\obj\Debug\net8.0\Demo_OPP_POP.AssemblyInfo.cs
+C:\Users\hagia\Documents\C#\baitap_tuan2\Demo_OPP\Demo_OPP_POP\obj\Debug\net8.0\Demo_OPP_POP.csproj.CoreCompileInputs.cache
+C:\Users\hagia\Documents\C#\baitap_tuan2\Demo_OPP\Demo_OPP_POP\obj\Debug\net8.0\Demo_OPP_POP.dll
+C:\Users\hagia\Documents\C#\baitap_tuan2\Demo_OPP\Demo_OPP_POP\obj\Debug\net8.0\refint\Demo_OPP_POP.dll
+C:\Users\hagia\Documents\C#\baitap_tuan2\Demo_OPP\Demo_OPP_POP\obj\Debug\net8.0\Demo_OPP_POP.pdb
+C:\Users\hagia\Documents\C#\baitap_tuan2\Demo_OPP\Demo_OPP_POP\obj\Debug\net8.0\Demo_OPP_POP.genruntimeconfig.cache
+C:\Users\hagia\Documents\C#\baitap_tuan2\Demo_OPP\Demo_OPP_POP\obj\Debug\net8.0\ref\Demo_OPP_POP.dll

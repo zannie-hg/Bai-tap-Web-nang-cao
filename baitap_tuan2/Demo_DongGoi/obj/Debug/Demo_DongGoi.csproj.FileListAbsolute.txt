@@ -1,0 +1,7 @@
+C:\Users\hagia\Documents\C#\baitap_tuan2\Demo_DongGoi\bin\Debug\Demo_DongGoi.exe.config
+C:\Users\hagia\Documents\C#\baitap_tuan2\Demo_DongGoi\bin\Debug\Demo_DongGoi.exe
+C:\Users\hagia\Documents\C#\baitap_tuan2\Demo_DongGoi\bin\Debug\Demo_DongGoi.pdb
+C:\Users\hagia\Documents\C#\baitap_tuan2\Demo_DongGoi\obj\Debug\Demo_DongGoi.csproj.AssemblyReference.cache
+C:\Users\hagia\Documents\C#\baitap_tuan2\Demo_DongGoi\obj\Debug\Demo_DongGoi.csproj.CoreCompileInputs.cache
+C:\Users\hagia\Documents\C#\baitap_tuan2\Demo_DongGoi\obj\Debug\Demo_DongGoi.exe
+C:\Users\hagia\Documents\C#\baitap_tuan2\Demo_DongGoi\obj\Debug\Demo_DongGoi.pdb

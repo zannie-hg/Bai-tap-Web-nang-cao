@@ -1,0 +1,42 @@
+D:\Kì 6\web nâng cao\Demo_OPP_POP\OPP_ruachen\bin\Debug\net8.0\OPP_ruachen.exe
+D:\Kì 6\web nâng cao\Demo_OPP_POP\OPP_ruachen\bin\Debug\net8.0\OPP_ruachen.deps.json
+D:\Kì 6\web nâng cao\Demo_OPP_POP\OPP_ruachen\bin\Debug\net8.0\OPP_ruachen.runtimeconfig.json
+D:\Kì 6\web nâng cao\Demo_OPP_POP\OPP_ruachen\bin\Debug\net8.0\OPP_ruachen.dll
+D:\Kì 6\web nâng cao\Demo_OPP_POP\OPP_ruachen\bin\Debug\net8.0\OPP_ruachen.pdb
+D:\Kì 6\web nâng cao\Demo_OPP_POP\OPP_ruachen\obj\Debug\net8.0\OPP_ruachen.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kì 6\web nâng cao\Demo_OPP_POP\OPP_ruachen\obj\Debug\net8.0\OPP_ruachen.AssemblyInfoInputs.cache
+D:\Kì 6\web nâng cao\Demo_OPP_POP\OPP_ruachen\obj\Debug\net8.0\OPP_ruachen.AssemblyInfo.cs
+D:\Kì 6\web nâng cao\Demo_OPP_POP\OPP_ruachen\obj\Debug\net8.0\OPP_ruachen.csproj.CoreCompileInputs.cache
+D:\Kì 6\web nâng cao\Demo_OPP_POP\OPP_ruachen\obj\Debug\net8.0\OPP_ruachen.dll
+D:\Kì 6\web nâng cao\Demo_OPP_POP\OPP_ruachen\obj\Debug\net8.0\refint\OPP_ruachen.dll
+D:\Kì 6\web nâng cao\Demo_OPP_POP\OPP_ruachen\obj\Debug\net8.0\OPP_ruachen.pdb
+D:\Kì 6\web nâng cao\Demo_OPP_POP\OPP_ruachen\obj\Debug\net8.0\OPP_ruachen.genruntimeconfig.cache
+D:\Kì 6\web nâng cao\Demo_OPP_POP\OPP_ruachen\obj\Debug\net8.0\ref\OPP_ruachen.dll
+C:\Users\hagia\Documents\C#\baitap_tuan2\OPP_ruachen\bin\Debug\net8.0\OPP_ruachen.exe
+C:\Users\hagia\Documents\C#\baitap_tuan2\OPP_ruachen\bin\Debug\net8.0\OPP_ruachen.deps.json
+C:\Users\hagia\Documents\C#\baitap_tuan2\OPP_ruachen\bin\Debug\net8.0\OPP_ruachen.runtimeconfig.json
+C:\Users\hagia\Documents\C#\baitap_tuan2\OPP_ruachen\bin\Debug\net8.0\OPP_ruachen.dll
+C:\Users\hagia\Documents\C#\baitap_tuan2\OPP_ruachen\bin\Debug\net8.0\OPP_ruachen.pdb
+C:\Users\hagia\Documents\C#\baitap_tuan2\OPP_ruachen\obj\Debug\net8.0\OPP_ruachen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hagia\Documents\C#\baitap_tuan2\OPP_ruachen\obj\Debug\net8.0\OPP_ruachen.AssemblyInfoInputs.cache
+C:\Users\hagia\Documents\C#\baitap_tuan2\OPP_ruachen\obj\Debug\net8.0\OPP_ruachen.AssemblyInfo.cs
+C:\Users\hagia\Documents\C#\baitap_tuan2\OPP_ruachen\obj\Debug\net8.0\OPP_ruachen.csproj.CoreCompileInputs.cache
+C:\Users\hagia\Documents\C#\baitap_tuan2\OPP_ruachen\obj\Debug\net8.0\OPP_ruachen.dll
+C:\Users\hagia\Documents\C#\baitap_tuan2\OPP_ruachen\obj\Debug\net8.0\refint\OPP_ruachen.dll
+C:\Users\hagia\Documents\C#\baitap_tuan2\OPP_ruachen\obj\Debug\net8.0\OPP_ruachen.pdb
+C:\Users\hagia\Documents\C#\baitap_tuan2\OPP_ruachen\obj\Debug\net8.0\OPP_ruachen.genruntimeconfig.cache
+C:\Users\hagia\Documents\C#\baitap_tuan2\OPP_ruachen\obj\Debug\net8.0\ref\OPP_ruachen.dll
+C:\Users\hagia\Documents\C#\baitap_tuan2\Demo_OPP\OPP_ruachen\bin\Debug\net8.0\OPP_ruachen.exe
+C:\Users\hagia\Documents\C#\baitap_tuan2\Demo_OPP\OPP_ruachen\bin\Debug\net8.0\OPP_ruachen.deps.json
+C:\Users\hagia\Documents\C#\baitap_tuan2\Demo_OPP\OPP_ruachen\bin\Debug\net8.0\OPP_ruachen.runtimeconfig.json
+C:\Users\hagia\Documents\C#\baitap_tuan2\Demo_OPP\OPP_ruachen\bin\Debug\net8.0\OPP_ruachen.dll
+C:\Users\hagia\Documents\C#\baitap_tuan2\Demo_OPP\OPP_ruachen\bin\Debug\net8.0\OPP_ruachen.pdb
+C:\Users\hagia\Documents\C#\baitap_tuan2\Demo_OPP\OPP_ruachen\obj\Debug\net8.0\OPP_ruachen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hagia\Documents\C#\baitap_tuan2\Demo_OPP\OPP_ruachen\obj\Debug\net8.0\OPP_ruachen.AssemblyInfoInputs.cache
+C:\Users\hagia\Documents\C#\baitap_tuan2\Demo_OPP\OPP_ruachen\obj\Debug\net8.0\OPP_ruachen.AssemblyInfo.cs
+C:\Users\hagia\Documents\C#\baitap_tuan2\Demo_OPP\OPP_ruachen\obj\Debug\net8.0\OPP_ruachen.csproj.CoreCompileInputs.cache
+C:\Users\hagia\Documents\C#\baitap_tuan2\Demo_OPP\OPP_ruachen\obj\Debug\net8.0\OPP_ruachen.dll
+C:\Users\hagia\Documents\C#\baitap_tuan2\Demo_OPP\OPP_ruachen\obj\Debug\net8.0\refint\OPP_ruachen.dll
+C:\Users\hagia\Documents\C#\baitap_tuan2\Demo_OPP\OPP_ruachen\obj\Debug\net8.0\OPP_ruachen.pdb
+C:\Users\hagia\Documents\C#\baitap_tuan2\Demo_OPP\OPP_ruachen\obj\Debug\net8.0\OPP_ruachen.genruntimeconfig.cache
+C:\Users\hagia\Documents\C#\baitap_tuan2\Demo_OPP\OPP_ruachen\obj\Debug\net8.0\ref\OPP_ruachen.dll

@@ -1,0 +1,7 @@
+C:\Users\hagia\Documents\C#\baitap_tuan2\OPP_tuan1\OPP_Song\bin\Debug\OPP_Song.exe.config
+C:\Users\hagia\Documents\C#\baitap_tuan2\OPP_tuan1\OPP_Song\bin\Debug\OPP_Song.exe
+C:\Users\hagia\Documents\C#\baitap_tuan2\OPP_tuan1\OPP_Song\bin\Debug\OPP_Song.pdb
+C:\Users\hagia\Documents\C#\baitap_tuan2\OPP_tuan1\OPP_Song\obj\Debug\OPP_Song.csproj.AssemblyReference.cache
+C:\Users\hagia\Documents\C#\baitap_tuan2\OPP_tuan1\OPP_Song\obj\Debug\OPP_Song.csproj.CoreCompileInputs.cache
+C:\Users\hagia\Documents\C#\baitap_tuan2\OPP_tuan1\OPP_Song\obj\Debug\OPP_Song.exe
+C:\Users\hagia\Documents\C#\baitap_tuan2\OPP_tuan1\OPP_Song\obj\Debug\OPP_Song.pdb
