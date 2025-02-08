@@ -1,0 +1,7 @@
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\String_Interpolation\bin\Debug\String_Interpolation.exe.config
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\String_Interpolation\bin\Debug\String_Interpolation.exe
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\String_Interpolation\bin\Debug\String_Interpolation.pdb
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\String_Interpolation\obj\Debug\String_Interpolation.csproj.AssemblyReference.cache
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\String_Interpolation\obj\Debug\String_Interpolation.csproj.CoreCompileInputs.cache
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\String_Interpolation\obj\Debug\String_Interpolation.exe
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\String_Interpolation\obj\Debug\String_Interpolation.pdb

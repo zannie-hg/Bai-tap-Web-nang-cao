@@ -1,0 +1,7 @@
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\Ref_Out\bin\Debug\Ref_Out.exe.config
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\Ref_Out\bin\Debug\Ref_Out.exe
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\Ref_Out\bin\Debug\Ref_Out.pdb
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\Ref_Out\obj\Debug\Ref_Out.csproj.AssemblyReference.cache
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\Ref_Out\obj\Debug\Ref_Out.csproj.CoreCompileInputs.cache
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\Ref_Out\obj\Debug\Ref_Out.exe
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\Ref_Out\obj\Debug\Ref_Out.pdb

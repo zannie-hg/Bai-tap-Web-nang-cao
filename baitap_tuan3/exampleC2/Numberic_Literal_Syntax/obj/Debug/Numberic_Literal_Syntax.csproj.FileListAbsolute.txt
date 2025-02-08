@@ -1,0 +1,7 @@
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\Numberic_Literal_Syntax\bin\Debug\Numberic_Literal_Syntax.exe.config
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\Numberic_Literal_Syntax\bin\Debug\Numberic_Literal_Syntax.exe
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\Numberic_Literal_Syntax\bin\Debug\Numberic_Literal_Syntax.pdb
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\Numberic_Literal_Syntax\obj\Debug\Numberic_Literal_Syntax.csproj.AssemblyReference.cache
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\Numberic_Literal_Syntax\obj\Debug\Numberic_Literal_Syntax.csproj.CoreCompileInputs.cache
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\Numberic_Literal_Syntax\obj\Debug\Numberic_Literal_Syntax.exe
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\Numberic_Literal_Syntax\obj\Debug\Numberic_Literal_Syntax.pdb

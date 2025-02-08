@@ -1,0 +1,7 @@
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\Loop_For_2\bin\Debug\Loop_For_2.exe.config
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\Loop_For_2\bin\Debug\Loop_For_2.exe
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\Loop_For_2\bin\Debug\Loop_For_2.pdb
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\Loop_For_2\obj\Debug\Loop_For_2.csproj.AssemblyReference.cache
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\Loop_For_2\obj\Debug\Loop_For_2.csproj.CoreCompileInputs.cache
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\Loop_For_2\obj\Debug\Loop_For_2.exe
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\Loop_For_2\obj\Debug\Loop_For_2.pdb

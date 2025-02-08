@@ -1,0 +1,7 @@
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\Discard_With_Out\bin\Debug\Discard_With_Out.exe.config
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\Discard_With_Out\bin\Debug\Discard_With_Out.exe
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\Discard_With_Out\bin\Debug\Discard_With_Out.pdb
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\Discard_With_Out\obj\Debug\Discard_With_Out.csproj.AssemblyReference.cache
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\Discard_With_Out\obj\Debug\Discard_With_Out.csproj.CoreCompileInputs.cache
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\Discard_With_Out\obj\Debug\Discard_With_Out.exe
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\Discard_With_Out\obj\Debug\Discard_With_Out.pdb

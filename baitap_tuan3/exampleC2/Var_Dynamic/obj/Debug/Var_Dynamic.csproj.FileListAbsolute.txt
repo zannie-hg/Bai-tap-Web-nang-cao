@@ -1,0 +1,7 @@
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\Var_Dynamic\bin\Debug\Var_Dynamic.exe.config
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\Var_Dynamic\bin\Debug\Var_Dynamic.exe
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\Var_Dynamic\bin\Debug\Var_Dynamic.pdb
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\Var_Dynamic\obj\Debug\Var_Dynamic.csproj.AssemblyReference.cache
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\Var_Dynamic\obj\Debug\Var_Dynamic.csproj.CoreCompileInputs.cache
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\Var_Dynamic\obj\Debug\Var_Dynamic.exe
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\Var_Dynamic\obj\Debug\Var_Dynamic.pdb

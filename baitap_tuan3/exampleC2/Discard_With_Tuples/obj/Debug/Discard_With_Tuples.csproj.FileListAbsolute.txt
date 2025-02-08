@@ -1,0 +1,7 @@
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\Discard_With_Tuples\bin\Debug\Discard_With_Tuples.exe.config
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\Discard_With_Tuples\bin\Debug\Discard_With_Tuples.exe
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\Discard_With_Tuples\bin\Debug\Discard_With_Tuples.pdb
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\Discard_With_Tuples\obj\Debug\Discard_With_Tuples.csproj.AssemblyReference.cache
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\Discard_With_Tuples\obj\Debug\Discard_With_Tuples.csproj.CoreCompileInputs.cache
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\Discard_With_Tuples\obj\Debug\Discard_With_Tuples.exe
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\Discard_With_Tuples\obj\Debug\Discard_With_Tuples.pdb

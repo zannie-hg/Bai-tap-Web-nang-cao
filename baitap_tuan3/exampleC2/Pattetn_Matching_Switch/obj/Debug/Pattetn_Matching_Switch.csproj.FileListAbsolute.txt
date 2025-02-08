@@ -1,0 +1,7 @@
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\Pattetn_Matching_Switch\bin\Debug\Pattetn_Matching_Switch.exe.config
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\Pattetn_Matching_Switch\bin\Debug\Pattetn_Matching_Switch.exe
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\Pattetn_Matching_Switch\bin\Debug\Pattetn_Matching_Switch.pdb
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\Pattetn_Matching_Switch\obj\Debug\Pattetn_Matching_Switch.csproj.AssemblyReference.cache
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\Pattetn_Matching_Switch\obj\Debug\Pattetn_Matching_Switch.csproj.CoreCompileInputs.cache
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\Pattetn_Matching_Switch\obj\Debug\Pattetn_Matching_Switch.exe
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\Pattetn_Matching_Switch\obj\Debug\Pattetn_Matching_Switch.pdb

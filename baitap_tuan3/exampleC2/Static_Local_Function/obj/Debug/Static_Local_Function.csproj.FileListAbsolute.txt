@@ -1,0 +1,7 @@
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\Static_Local_Function\obj\Debug\Static_Local_Function.csproj.AssemblyReference.cache
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\Static_Local_Function\obj\Debug\Static_Local_Function.csproj.CoreCompileInputs.cache
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\Static_Local_Function\bin\Debug\Static_Local_Function.exe.config
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\Static_Local_Function\bin\Debug\Static_Local_Function.exe
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\Static_Local_Function\bin\Debug\Static_Local_Function.pdb
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\Static_Local_Function\obj\Debug\Static_Local_Function.exe
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\Static_Local_Function\obj\Debug\Static_Local_Function.pdb

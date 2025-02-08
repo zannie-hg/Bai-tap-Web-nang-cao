@@ -1,0 +1,7 @@
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\SumOfSeries\bin\Debug\SumOfSeries.exe.config
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\SumOfSeries\bin\Debug\SumOfSeries.exe
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\SumOfSeries\bin\Debug\SumOfSeries.pdb
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\SumOfSeries\obj\Debug\SumOfSeries.csproj.AssemblyReference.cache
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\SumOfSeries\obj\Debug\SumOfSeries.csproj.CoreCompileInputs.cache
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\SumOfSeries\obj\Debug\SumOfSeries.exe
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\SumOfSeries\obj\Debug\SumOfSeries.pdb

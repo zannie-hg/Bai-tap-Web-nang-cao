@@ -1,0 +1,7 @@
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\Pattern_Matching_If\bin\Debug\Pattern_Matching_If.exe.config
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\Pattern_Matching_If\bin\Debug\Pattern_Matching_If.exe
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\Pattern_Matching_If\bin\Debug\Pattern_Matching_If.pdb
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\Pattern_Matching_If\obj\Debug\Pattern_Matching_If.csproj.AssemblyReference.cache
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\Pattern_Matching_If\obj\Debug\Pattern_Matching_If.csproj.CoreCompileInputs.cache
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\Pattern_Matching_If\obj\Debug\Pattern_Matching_If.exe
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\Pattern_Matching_If\obj\Debug\Pattern_Matching_If.pdb

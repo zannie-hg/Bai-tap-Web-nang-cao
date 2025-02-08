@@ -1,0 +1,7 @@
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\SumOfTwoNumbers\bin\Debug\SumOfTwoNumbers.exe.config
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\SumOfTwoNumbers\bin\Debug\SumOfTwoNumbers.exe
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\SumOfTwoNumbers\bin\Debug\SumOfTwoNumbers.pdb
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\SumOfTwoNumbers\obj\Debug\SumOfTwoNumbers.csproj.AssemblyReference.cache
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\SumOfTwoNumbers\obj\Debug\SumOfTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\SumOfTwoNumbers\obj\Debug\SumOfTwoNumbers.exe
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\SumOfTwoNumbers\obj\Debug\SumOfTwoNumbers.pdb

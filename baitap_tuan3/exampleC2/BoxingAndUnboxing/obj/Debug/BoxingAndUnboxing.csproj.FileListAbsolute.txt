@@ -1,0 +1,7 @@
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\BoxingAndUnboxing\bin\Debug\BoxingAndUnboxing.exe.config
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\BoxingAndUnboxing\bin\Debug\BoxingAndUnboxing.exe
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\BoxingAndUnboxing\bin\Debug\BoxingAndUnboxing.pdb
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\BoxingAndUnboxing\obj\Debug\BoxingAndUnboxing.csproj.AssemblyReference.cache
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\BoxingAndUnboxing\obj\Debug\BoxingAndUnboxing.csproj.CoreCompileInputs.cache
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\BoxingAndUnboxing\obj\Debug\BoxingAndUnboxing.exe
+C:\Users\hagia\Documents\C#\baitap_tuan3\exampleC2\BoxingAndUnboxing\obj\Debug\BoxingAndUnboxing.pdb
