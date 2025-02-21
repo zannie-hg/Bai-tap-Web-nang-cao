@@ -1,0 +1,7 @@
+C:\Users\hagia\Documents\C#\baitap_tuan2\OPP_tuan2\Demo_DaHinh_KeThua\bin\Debug\Demo_DaHinh_KeThua.exe.config
+C:\Users\hagia\Documents\C#\baitap_tuan2\OPP_tuan2\Demo_DaHinh_KeThua\bin\Debug\Demo_DaHinh_KeThua.exe
+C:\Users\hagia\Documents\C#\baitap_tuan2\OPP_tuan2\Demo_DaHinh_KeThua\bin\Debug\Demo_DaHinh_KeThua.pdb
+C:\Users\hagia\Documents\C#\baitap_tuan2\OPP_tuan2\Demo_DaHinh_KeThua\obj\Debug\Demo_DaHinh_KeThua.csproj.AssemblyReference.cache
+C:\Users\hagia\Documents\C#\baitap_tuan2\OPP_tuan2\Demo_DaHinh_KeThua\obj\Debug\Demo_DaHinh_KeThua.csproj.CoreCompileInputs.cache
+C:\Users\hagia\Documents\C#\baitap_tuan2\OPP_tuan2\Demo_DaHinh_KeThua\obj\Debug\Demo_DaHinh_KeThua.exe
+C:\Users\hagia\Documents\C#\baitap_tuan2\OPP_tuan2\Demo_DaHinh_KeThua\obj\Debug\Demo_DaHinh_KeThua.pdb

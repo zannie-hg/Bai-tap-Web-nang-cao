@@ -1,0 +1,7 @@
+C:\Users\hagia\Documents\C#\baitap_tuan3\lab01_OPP\baitap4\obj\Debug\baitap4.csproj.AssemblyReference.cache
+C:\Users\hagia\Documents\C#\baitap_tuan3\lab01_OPP\baitap4\obj\Debug\baitap4.csproj.CoreCompileInputs.cache
+C:\Users\hagia\Documents\C#\baitap_tuan3\lab01_OPP\baitap4\bin\Debug\baitap4.exe.config
+C:\Users\hagia\Documents\C#\baitap_tuan3\lab01_OPP\baitap4\bin\Debug\baitap4.exe
+C:\Users\hagia\Documents\C#\baitap_tuan3\lab01_OPP\baitap4\bin\Debug\baitap4.pdb
+C:\Users\hagia\Documents\C#\baitap_tuan3\lab01_OPP\baitap4\obj\Debug\baitap4.exe
+C:\Users\hagia\Documents\C#\baitap_tuan3\lab01_OPP\baitap4\obj\Debug\baitap4.pdb

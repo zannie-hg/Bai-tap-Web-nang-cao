@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan3\\lab01_OPP\\baitap4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B93BB545-F73E-46E0-8051-07C5C5821CF4}|baitap4.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan3\\lab01_opp\\baitap4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B93BB545-F73E-46E0-8051-07C5C5821CF4}|baitap4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B93BB545-F73E-46E0-8051-07C5C5821CF4}|baitap4.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan3\\lab01_opp\\baitap4\\nhakhoahoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B93BB545-F73E-46E0-8051-07C5C5821CF4}|baitap4.csproj|solutionrelative:nhakhoahoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B93BB545-F73E-46E0-8051-07C5C5821CF4}|baitap4.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan3\\lab01_opp\\baitap4\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B93BB545-F73E-46E0-8051-07C5C5821CF4}|baitap4.csproj|solutionrelative:nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B93BB545-F73E-46E0-8051-07C5C5821CF4}|baitap4.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan3\\lab01_opp\\baitap4\\nhanvienphongthinghiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B93BB545-F73E-46E0-8051-07C5C5821CF4}|baitap4.csproj|solutionrelative:nhanvienphongthinghiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B93BB545-F73E-46E0-8051-07C5C5821CF4}|baitap4.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan3\\lab01_opp\\baitap4\\nhaquanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B93BB545-F73E-46E0-8051-07C5C5821CF4}|baitap4.csproj|solutionrelative:nhaquanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NhanVienPhongThiNghiem.cs",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan3\\lab01_OPP\\baitap4\\NhanVienPhongThiNghiem.cs",
+              "RelativeDocumentMoniker": "NhanVienPhongThiNghiem.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan3\\lab01_OPP\\baitap4\\NhanVienPhongThiNghiem.cs",
+              "RelativeToolTip": "NhanVienPhongThiNghiem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T22:10:16.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NhaQuanLy.cs",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan3\\lab01_OPP\\baitap4\\NhaQuanLy.cs",
+              "RelativeDocumentMoniker": "NhaQuanLy.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan3\\lab01_OPP\\baitap4\\NhaQuanLy.cs",
+              "RelativeToolTip": "NhaQuanLy.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T22:09:38.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NhaKhoaHoc.cs",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan3\\lab01_OPP\\baitap4\\NhaKhoaHoc.cs",
+              "RelativeDocumentMoniker": "NhaKhoaHoc.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan3\\lab01_OPP\\baitap4\\NhaKhoaHoc.cs",
+              "RelativeToolTip": "NhaKhoaHoc.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T22:08:39.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan3\\lab01_OPP\\baitap4\\NhanVien.cs",
+              "RelativeDocumentMoniker": "NhanVien.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan3\\lab01_OPP\\baitap4\\NhanVien.cs",
+              "RelativeToolTip": "NhanVien.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T22:08:16.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan3\\lab01_OPP\\baitap4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan3\\lab01_OPP\\baitap4\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAADkAAAAAAAAAAAAIwFYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T22:07:48.128Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan4\\Demo_Abstract\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{066E3977-50EE-4A00-ADED-DF964DDCF6CF}|Demo_Abstract.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan4\\demo_abstract\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{066E3977-50EE-4A00-ADED-DF964DDCF6CF}|Demo_Abstract.csproj|solutionrelative:animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066E3977-50EE-4A00-ADED-DF964DDCF6CF}|Demo_Abstract.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan4\\demo_abstract\\cow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{066E3977-50EE-4A00-ADED-DF964DDCF6CF}|Demo_Abstract.csproj|solutionrelative:cow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066E3977-50EE-4A00-ADED-DF964DDCF6CF}|Demo_Abstract.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan4\\demo_abstract\\icanfly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{066E3977-50EE-4A00-ADED-DF964DDCF6CF}|Demo_Abstract.csproj|solutionrelative:icanfly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066E3977-50EE-4A00-ADED-DF964DDCF6CF}|Demo_Abstract.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan4\\demo_abstract\\duck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{066E3977-50EE-4A00-ADED-DF964DDCF6CF}|Demo_Abstract.csproj|solutionrelative:duck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066E3977-50EE-4A00-ADED-DF964DDCF6CF}|Demo_Abstract.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan4\\demo_abstract\\icanswim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{066E3977-50EE-4A00-ADED-DF964DDCF6CF}|Demo_Abstract.csproj|solutionrelative:icanswim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066E3977-50EE-4A00-ADED-DF964DDCF6CF}|Demo_Abstract.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan4\\demo_abstract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{066E3977-50EE-4A00-ADED-DF964DDCF6CF}|Demo_Abstract.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICanSwim.cs",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan4\\Demo_Abstract\\ICanSwim.cs",
+              "RelativeDocumentMoniker": "ICanSwim.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan4\\Demo_Abstract\\ICanSwim.cs",
+              "RelativeToolTip": "ICanSwim.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T03:12:20.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICanFly.cs",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan4\\Demo_Abstract\\ICanFly.cs",
+              "RelativeDocumentMoniker": "ICanFly.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan4\\Demo_Abstract\\ICanFly.cs",
+              "RelativeToolTip": "ICanFly.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T03:08:07.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Duck.cs",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan4\\Demo_Abstract\\Duck.cs",
+              "RelativeDocumentMoniker": "Duck.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan4\\Demo_Abstract\\Duck.cs",
+              "RelativeToolTip": "Duck.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T02:35:42.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cow.cs",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan4\\Demo_Abstract\\Cow.cs",
+              "RelativeDocumentMoniker": "Cow.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan4\\Demo_Abstract\\Cow.cs",
+              "RelativeToolTip": "Cow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T02:30:58.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan4\\Demo_Abstract\\Animal.cs",
+              "RelativeDocumentMoniker": "Animal.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan4\\Demo_Abstract\\Animal.cs",
+              "RelativeToolTip": "Animal.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T02:14:07.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan4\\Demo_Abstract\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan4\\Demo_Abstract\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T02:13:55.992Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

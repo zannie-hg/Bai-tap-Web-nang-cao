@@ -1,7 +1,72 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan3\\exampleC2\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hagia\\Documents\\C#\\baitap_tuan3\\exampleC2\\Var_Dynamic\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Var_Dynamic\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hagia\\Documents\\C#\\baitap_tuan3\\exampleC2\\Static_Local_Function\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Static_Local_Function\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hagia\\Documents\\C#\\baitap_tuan3\\exampleC2\\Pattetn_Matching_Switch\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pattetn_Matching_Switch\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hagia\\Documents\\C#\\baitap_tuan3\\exampleC2\\Pattern_Matching_If\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pattern_Matching_If\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hagia\\Documents\\C#\\baitap_tuan3\\exampleC2\\Discard_With_Tuples\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Discard_With_Tuples\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hagia\\Documents\\C#\\baitap_tuan3\\exampleC2\\Discard_With_Out\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Discard_With_Out\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hagia\\Documents\\C#\\baitap_tuan3\\exampleC2\\Tuples\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tuples\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hagia\\Documents\\C#\\baitap_tuan3\\exampleC2\\Local_Function\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Local_Function\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hagia\\Documents\\C#\\baitap_tuan3\\exampleC2\\Ref_Out\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ref_Out\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hagia\\Documents\\C#\\baitap_tuan3\\exampleC2\\Numberic_Literal_Syntax\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Numberic_Literal_Syntax\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hagia\\Documents\\C#\\baitap_tuan3\\exampleC2\\String_Interpolation\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:String_Interpolation\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hagia\\Documents\\C#\\baitap_tuan3\\exampleC2\\BoxingAndUnboxing\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BoxingAndUnboxing\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hagia\\Documents\\C#\\baitap_tuan3\\exampleC2\\SumOfSeries\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SumOfSeries\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hagia\\Documents\\C#\\baitap_tuan3\\exampleC2\\Loop_For_2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Loop_For_2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hagia\\Documents\\C#\\baitap_tuan3\\exampleC2\\Loop_For\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Loop_For\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hagia\\Documents\\C#\\baitap_tuan3\\exampleC2\\SumOfTwoNumbers\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SumOfTwoNumbers\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -20,8 +85,199 @@
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan3\\exampleC2\\Pattetn_Matching_Switch\\Program.cs",
+              "RelativeDocumentMoniker": "Pattetn_Matching_Switch\\Program.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan3\\exampleC2\\Pattetn_Matching_Switch\\Program.cs",
+              "RelativeToolTip": "Pattetn_Matching_Switch\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T21:12:13.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan3\\exampleC2\\Pattern_Matching_If\\Program.cs",
+              "RelativeDocumentMoniker": "Pattern_Matching_If\\Program.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan3\\exampleC2\\Pattern_Matching_If\\Program.cs",
+              "RelativeToolTip": "Pattern_Matching_If\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T21:11:12.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan3\\exampleC2\\Discard_With_Tuples\\Program.cs",
+              "RelativeDocumentMoniker": "Discard_With_Tuples\\Program.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan3\\exampleC2\\Discard_With_Tuples\\Program.cs",
+              "RelativeToolTip": "Discard_With_Tuples\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T21:10:17.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan3\\exampleC2\\Discard_With_Out\\Program.cs",
+              "RelativeDocumentMoniker": "Discard_With_Out\\Program.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan3\\exampleC2\\Discard_With_Out\\Program.cs",
+              "RelativeToolTip": "Discard_With_Out\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T21:09:41.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan3\\exampleC2\\Tuples\\Program.cs",
+              "RelativeDocumentMoniker": "Tuples\\Program.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan3\\exampleC2\\Tuples\\Program.cs",
+              "RelativeToolTip": "Tuples\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwB0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T21:08:26.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan3\\exampleC2\\Static_Local_Function\\Program.cs",
+              "RelativeDocumentMoniker": "Static_Local_Function\\Program.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan3\\exampleC2\\Static_Local_Function\\Program.cs",
+              "RelativeToolTip": "Static_Local_Function\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T21:07:53.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan3\\exampleC2\\Local_Function\\Program.cs",
+              "RelativeDocumentMoniker": "Local_Function\\Program.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan3\\exampleC2\\Local_Function\\Program.cs",
+              "RelativeToolTip": "Local_Function\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T21:07:19.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan3\\exampleC2\\Ref_Out\\Program.cs",
+              "RelativeDocumentMoniker": "Ref_Out\\Program.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan3\\exampleC2\\Ref_Out\\Program.cs",
+              "RelativeToolTip": "Ref_Out\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T21:06:21.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan3\\exampleC2\\Numberic_Literal_Syntax\\Program.cs",
+              "RelativeDocumentMoniker": "Numberic_Literal_Syntax\\Program.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan3\\exampleC2\\Numberic_Literal_Syntax\\Program.cs",
+              "RelativeToolTip": "Numberic_Literal_Syntax\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T21:05:13.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan3\\exampleC2\\String_Interpolation\\Program.cs",
+              "RelativeDocumentMoniker": "String_Interpolation\\Program.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan3\\exampleC2\\String_Interpolation\\Program.cs",
+              "RelativeToolTip": "String_Interpolation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T21:04:08.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan3\\exampleC2\\Var_Dynamic\\Program.cs",
+              "RelativeDocumentMoniker": "Var_Dynamic\\Program.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan3\\exampleC2\\Var_Dynamic\\Program.cs",
+              "RelativeToolTip": "Var_Dynamic\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T21:02:59.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan3\\exampleC2\\BoxingAndUnboxing\\Program.cs",
+              "RelativeDocumentMoniker": "BoxingAndUnboxing\\Program.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan3\\exampleC2\\BoxingAndUnboxing\\Program.cs",
+              "RelativeToolTip": "BoxingAndUnboxing\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T21:00:50.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan3\\exampleC2\\SumOfSeries\\Program.cs",
+              "RelativeDocumentMoniker": "SumOfSeries\\Program.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan3\\exampleC2\\SumOfSeries\\Program.cs",
+              "RelativeToolTip": "SumOfSeries\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T20:59:53.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan3\\exampleC2\\Loop_For_2\\Program.cs",
+              "RelativeDocumentMoniker": "Loop_For_2\\Program.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan3\\exampleC2\\Loop_For_2\\Program.cs",
+              "RelativeToolTip": "Loop_For_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T20:59:07.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan3\\exampleC2\\Loop_For\\Program.cs",
+              "RelativeDocumentMoniker": "Loop_For\\Program.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan3\\exampleC2\\Loop_For\\Program.cs",
+              "RelativeToolTip": "Loop_For\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T20:58:12.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan3\\exampleC2\\SumOfTwoNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "SumOfTwoNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan3\\exampleC2\\SumOfTwoNumbers\\Program.cs",
+              "RelativeToolTip": "SumOfTwoNumbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T20:56:39.741Z"
             }
           ]
         }

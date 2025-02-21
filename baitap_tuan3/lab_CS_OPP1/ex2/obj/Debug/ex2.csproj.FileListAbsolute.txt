@@ -1,0 +1,7 @@
+C:\Users\hagia\Documents\C#\baitap_tuan3\lab C# OPP1\ex2\bin\Debug\ex2.exe.config
+C:\Users\hagia\Documents\C#\baitap_tuan3\lab C# OPP1\ex2\bin\Debug\ex2.exe
+C:\Users\hagia\Documents\C#\baitap_tuan3\lab C# OPP1\ex2\bin\Debug\ex2.pdb
+C:\Users\hagia\Documents\C#\baitap_tuan3\lab C# OPP1\ex2\obj\Debug\ex2.csproj.AssemblyReference.cache
+C:\Users\hagia\Documents\C#\baitap_tuan3\lab C# OPP1\ex2\obj\Debug\ex2.csproj.CoreCompileInputs.cache
+C:\Users\hagia\Documents\C#\baitap_tuan3\lab C# OPP1\ex2\obj\Debug\ex2.exe
+C:\Users\hagia\Documents\C#\baitap_tuan3\lab C# OPP1\ex2\obj\Debug\ex2.pdb

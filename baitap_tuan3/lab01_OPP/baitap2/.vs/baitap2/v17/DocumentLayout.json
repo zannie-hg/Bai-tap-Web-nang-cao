@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan3\\lab01_OPP\\baitap2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A22AB223-DA3D-4796-BD2B-57E4F26BA52E}|baitap2.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan3\\lab01_opp\\baitap2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A22AB223-DA3D-4796-BD2B-57E4F26BA52E}|baitap2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A22AB223-DA3D-4796-BD2B-57E4F26BA52E}|baitap2.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan3\\lab01_opp\\baitap2\\tester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A22AB223-DA3D-4796-BD2B-57E4F26BA52E}|baitap2.csproj|solutionrelative:tester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A22AB223-DA3D-4796-BD2B-57E4F26BA52E}|baitap2.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan3\\lab01_opp\\baitap2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A22AB223-DA3D-4796-BD2B-57E4F26BA52E}|baitap2.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tester.cs",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan3\\lab01_OPP\\baitap2\\Tester.cs",
+              "RelativeDocumentMoniker": "Tester.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan3\\lab01_OPP\\baitap2\\Tester.cs",
+              "RelativeToolTip": "Tester.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T21:40:30.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan3\\lab01_OPP\\baitap2\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan3\\lab01_OPP\\baitap2\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAswDQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T21:39:42.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan3\\lab01_OPP\\baitap2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan3\\lab01_OPP\\baitap2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T21:39:23.144Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

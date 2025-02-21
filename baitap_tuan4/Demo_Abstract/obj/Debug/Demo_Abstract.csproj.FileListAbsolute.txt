@@ -1,0 +1,7 @@
+C:\Users\hagia\Documents\C#\baitap_tuan4\Demo_Abstract\bin\Debug\Demo_Abstract.exe.config
+C:\Users\hagia\Documents\C#\baitap_tuan4\Demo_Abstract\bin\Debug\Demo_Abstract.exe
+C:\Users\hagia\Documents\C#\baitap_tuan4\Demo_Abstract\bin\Debug\Demo_Abstract.pdb
+C:\Users\hagia\Documents\C#\baitap_tuan4\Demo_Abstract\obj\Debug\Demo_Abstract.csproj.AssemblyReference.cache
+C:\Users\hagia\Documents\C#\baitap_tuan4\Demo_Abstract\obj\Debug\Demo_Abstract.csproj.CoreCompileInputs.cache
+C:\Users\hagia\Documents\C#\baitap_tuan4\Demo_Abstract\obj\Debug\Demo_Abstract.exe
+C:\Users\hagia\Documents\C#\baitap_tuan4\Demo_Abstract\obj\Debug\Demo_Abstract.pdb
