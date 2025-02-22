@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan5\\lab02_Collection and Generic\\exercise1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF527B6D-8A89-4EE9-AFD4-9EABAEA3AC02}|exercise1.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan5\\lab02_collection and generic\\exercise1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF527B6D-8A89-4EE9-AFD4-9EABAEA3AC02}|exercise1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF527B6D-8A89-4EE9-AFD4-9EABAEA3AC02}|exercise1.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan5\\lab02_collection and generic\\exercise1\\ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF527B6D-8A89-4EE9-AFD4-9EABAEA3AC02}|exercise1.csproj|solutionrelative:ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF527B6D-8A89-4EE9-AFD4-9EABAEA3AC02}|exercise1.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan5\\lab02_collection and generic\\exercise1\\booklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF527B6D-8A89-4EE9-AFD4-9EABAEA3AC02}|exercise1.csproj|solutionrelative:booklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF527B6D-8A89-4EE9-AFD4-9EABAEA3AC02}|exercise1.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan5\\lab02_collection and generic\\exercise1\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF527B6D-8A89-4EE9-AFD4-9EABAEA3AC02}|exercise1.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookList.cs",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan5\\lab02_Collection and Generic\\exercise1\\BookList.cs",
+              "RelativeDocumentMoniker": "BookList.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan5\\lab02_Collection and Generic\\exercise1\\BookList.cs",
+              "RelativeToolTip": "BookList.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T21:13:18.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan5\\lab02_Collection and Generic\\exercise1\\Book.cs",
+              "RelativeDocumentMoniker": "Book.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan5\\lab02_Collection and Generic\\exercise1\\Book.cs",
+              "RelativeToolTip": "Book.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAwwEgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T21:01:26.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IBook.cs",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan5\\lab02_Collection and Generic\\exercise1\\IBook.cs",
+              "RelativeDocumentMoniker": "IBook.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan5\\lab02_Collection and Generic\\exercise1\\IBook.cs",
+              "RelativeToolTip": "IBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T20:55:13.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan5\\lab02_Collection and Generic\\exercise1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan5\\lab02_Collection and Generic\\exercise1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T17:38:23.266Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

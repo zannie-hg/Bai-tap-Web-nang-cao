@@ -1,0 +1,7 @@
+C:\Users\hagia\Documents\C#\baitap_tuan5\lab02_Collection and Generic\exercise1\bin\Debug\exercise1.exe.config
+C:\Users\hagia\Documents\C#\baitap_tuan5\lab02_Collection and Generic\exercise1\bin\Debug\exercise1.exe
+C:\Users\hagia\Documents\C#\baitap_tuan5\lab02_Collection and Generic\exercise1\bin\Debug\exercise1.pdb
+C:\Users\hagia\Documents\C#\baitap_tuan5\lab02_Collection and Generic\exercise1\obj\Debug\exercise1.csproj.AssemblyReference.cache
+C:\Users\hagia\Documents\C#\baitap_tuan5\lab02_Collection and Generic\exercise1\obj\Debug\exercise1.csproj.CoreCompileInputs.cache
+C:\Users\hagia\Documents\C#\baitap_tuan5\lab02_Collection and Generic\exercise1\obj\Debug\exercise1.exe
+C:\Users\hagia\Documents\C#\baitap_tuan5\lab02_Collection and Generic\exercise1\obj\Debug\exercise1.pdb
