@@ -1,0 +1,7 @@
+C:\Users\hagia\Documents\C#\baitap_tuan5\Demo_List_3\bin\Debug\Demo_List_3.exe.config
+C:\Users\hagia\Documents\C#\baitap_tuan5\Demo_List_3\bin\Debug\Demo_List_3.exe
+C:\Users\hagia\Documents\C#\baitap_tuan5\Demo_List_3\bin\Debug\Demo_List_3.pdb
+C:\Users\hagia\Documents\C#\baitap_tuan5\Demo_List_3\obj\Debug\Demo_List_3.csproj.AssemblyReference.cache
+C:\Users\hagia\Documents\C#\baitap_tuan5\Demo_List_3\obj\Debug\Demo_List_3.csproj.CoreCompileInputs.cache
+C:\Users\hagia\Documents\C#\baitap_tuan5\Demo_List_3\obj\Debug\Demo_List_3.exe
+C:\Users\hagia\Documents\C#\baitap_tuan5\Demo_List_3\obj\Debug\Demo_List_3.pdb

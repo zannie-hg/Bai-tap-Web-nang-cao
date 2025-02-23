@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan5\\Demo_List\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4DAFE1B7-8A07-4315-8A20-A303D1C6CB72}|Demo_List.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan5\\demo_list\\danhsachnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4DAFE1B7-8A07-4315-8A20-A303D1C6CB72}|Demo_List.csproj|C:\\Users\\hagia\\Documents\\C#\\baitap_tuan5\\Demo_List\\danhsachnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DAFE1B7-8A07-4315-8A20-A303D1C6CB72}|Demo_List.csproj|solutionrelative:danhsachnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAFE1B7-8A07-4315-8A20-A303D1C6CB72}|Demo_List.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan5\\demo_list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAFE1B7-8A07-4315-8A20-A303D1C6CB72}|Demo_List.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4DAFE1B7-8A07-4315-8A20-A303D1C6CB72}|Demo_List.csproj|C:\\Users\\hagia\\Documents\\C#\\baitap_tuan5\\Demo_List\\nhanvienbtg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4DAFE1B7-8A07-4315-8A20-A303D1C6CB72}|Demo_List.csproj|C:\\Users\\hagia\\Documents\\C#\\baitap_tuan5\\Demo_List\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DAFE1B7-8A07-4315-8A20-A303D1C6CB72}|Demo_List.csproj|solutionrelative:nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DAFE1B7-8A07-4315-8A20-A303D1C6CB72}|Demo_List.csproj|C:\\Users\\hagia\\Documents\\C#\\baitap_tuan5\\Demo_List\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DAFE1B7-8A07-4315-8A20-A303D1C6CB72}|Demo_List.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4DAFE1B7-8A07-4315-8A20-A303D1C6CB72}|Demo_List.csproj|C:\\Users\\hagia\\Documents\\C#\\baitap_tuan5\\Demo_List\\nhanvienttg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "DanhSachNhanVien.cs",
               "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan5\\Demo_List\\DanhSachNhanVien.cs",
               "RelativeToolTip": "DanhSachNhanVien.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAA3wDkAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAADgvykAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-17T01:36:02.512Z",
               "EditorCaption": ""
@@ -63,12 +63,11 @@
               "RelativeToolTip": "NhanVienTTG.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAmwA0AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T01:34:01.366Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T01:34:01.366Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "NhanVienBTG.cs",
               "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan5\\Demo_List\\NhanVienBTG.cs",
               "RelativeDocumentMoniker": "NhanVienBTG.cs",
@@ -76,12 +75,11 @@
               "RelativeToolTip": "NhanVienBTG.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAmwA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T01:33:33.754Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T01:33:33.754Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "NhanVien.cs",
               "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan5\\Demo_List\\NhanVien.cs",
               "RelativeDocumentMoniker": "NhanVien.cs",
@@ -89,18 +87,17 @@
               "RelativeToolTip": "NhanVien.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAiwBEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T01:31:47.419Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T01:31:47.419Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan5\\Demo_List\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan5\\Demo_List\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAQwDcAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwDsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-17T01:25:54.193Z",
               "EditorCaption": ""
