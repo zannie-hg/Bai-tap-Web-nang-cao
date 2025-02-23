@@ -1,0 +1,7 @@
+C:\Users\hagia\Documents\C#\baitap_tuan5\List_Abstract_QLNV\bin\Debug\List_Abstract_QLNV.exe.config
+C:\Users\hagia\Documents\C#\baitap_tuan5\List_Abstract_QLNV\bin\Debug\List_Abstract_QLNV.exe
+C:\Users\hagia\Documents\C#\baitap_tuan5\List_Abstract_QLNV\bin\Debug\List_Abstract_QLNV.pdb
+C:\Users\hagia\Documents\C#\baitap_tuan5\List_Abstract_QLNV\obj\Debug\List_Abstract_QLNV.csproj.AssemblyReference.cache
+C:\Users\hagia\Documents\C#\baitap_tuan5\List_Abstract_QLNV\obj\Debug\List_Abstract_QLNV.csproj.CoreCompileInputs.cache
+C:\Users\hagia\Documents\C#\baitap_tuan5\List_Abstract_QLNV\obj\Debug\List_Abstract_QLNV.exe
+C:\Users\hagia\Documents\C#\baitap_tuan5\List_Abstract_QLNV\obj\Debug\List_Abstract_QLNV.pdb
