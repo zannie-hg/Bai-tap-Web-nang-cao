@@ -7,19 +7,19 @@
       "RelativeMoniker": "D:0:0:{3D66951D-80B2-44E7-B93D-9E4CAB6FEB17}|List_Abstract_QLNV.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D66951D-80B2-44E7-B93D-9E4CAB6FEB17}|List_Abstract_QLNV.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan5\\list_abstract_qlnv\\danhsachnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D66951D-80B2-44E7-B93D-9E4CAB6FEB17}|List_Abstract_QLNV.csproj|C:\\Users\\hagia\\Documents\\C#\\baitap_tuan5\\List_Abstract_QLNV\\danhsachnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D66951D-80B2-44E7-B93D-9E4CAB6FEB17}|List_Abstract_QLNV.csproj|solutionrelative:danhsachnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D66951D-80B2-44E7-B93D-9E4CAB6FEB17}|List_Abstract_QLNV.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan5\\list_abstract_qlnv\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D66951D-80B2-44E7-B93D-9E4CAB6FEB17}|List_Abstract_QLNV.csproj|C:\\Users\\hagia\\Documents\\C#\\baitap_tuan5\\List_Abstract_QLNV\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D66951D-80B2-44E7-B93D-9E4CAB6FEB17}|List_Abstract_QLNV.csproj|solutionrelative:nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D66951D-80B2-44E7-B93D-9E4CAB6FEB17}|List_Abstract_QLNV.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan5\\list_abstract_qlnv\\nhanvienbtg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D66951D-80B2-44E7-B93D-9E4CAB6FEB17}|List_Abstract_QLNV.csproj|C:\\Users\\hagia\\Documents\\C#\\baitap_tuan5\\List_Abstract_QLNV\\nhanvienbtg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D66951D-80B2-44E7-B93D-9E4CAB6FEB17}|List_Abstract_QLNV.csproj|solutionrelative:nhanvienbtg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D66951D-80B2-44E7-B93D-9E4CAB6FEB17}|List_Abstract_QLNV.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan5\\list_abstract_qlnv\\nhanvienttg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D66951D-80B2-44E7-B93D-9E4CAB6FEB17}|List_Abstract_QLNV.csproj|C:\\Users\\hagia\\Documents\\C#\\baitap_tuan5\\List_Abstract_QLNV\\nhanvienttg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D66951D-80B2-44E7-B93D-9E4CAB6FEB17}|List_Abstract_QLNV.csproj|solutionrelative:nhanvienttg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -46,12 +46,11 @@
               "Title": "DanhSachNhanVien.cs",
               "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan5\\List_Abstract_QLNV\\DanhSachNhanVien.cs",
               "RelativeDocumentMoniker": "DanhSachNhanVien.cs",
-              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan5\\List_Abstract_QLNV\\DanhSachNhanVien.cs*",
-              "RelativeToolTip": "DanhSachNhanVien.cs*",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan5\\List_Abstract_QLNV\\DanhSachNhanVien.cs",
+              "RelativeToolTip": "DanhSachNhanVien.cs",
               "ViewState": "AgIAABgAAAAAAAAAAADwvy4AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T09:23:26.041Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T09:23:26.041Z"
             },
             {
               "$type": "Document",
@@ -63,8 +62,7 @@
               "RelativeToolTip": "NhanVienTTG.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwB4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T09:14:09.12Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T09:14:09.12Z"
             },
             {
               "$type": "Document",
@@ -76,8 +74,7 @@
               "RelativeToolTip": "NhanVienBTG.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwBYAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T09:14:00.352Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T09:14:00.352Z"
             },
             {
               "$type": "Document",
@@ -85,12 +82,11 @@
               "Title": "NhanVien.cs",
               "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan5\\List_Abstract_QLNV\\NhanVien.cs",
               "RelativeDocumentMoniker": "NhanVien.cs",
-              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan5\\List_Abstract_QLNV\\NhanVien.cs*",
-              "RelativeToolTip": "NhanVien.cs*",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan5\\List_Abstract_QLNV\\NhanVien.cs",
+              "RelativeToolTip": "NhanVien.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T09:09:46.414Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T09:09:46.414Z"
             },
             {
               "$type": "Document",
@@ -98,9 +94,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan5\\List_Abstract_QLNV\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan5\\List_Abstract_QLNV\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAABQAAAAAAAAAAADwvzMAAABKAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan5\\List_Abstract_QLNV\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAADwvzMAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-23T09:09:16.401Z",
               "EditorCaption": ""

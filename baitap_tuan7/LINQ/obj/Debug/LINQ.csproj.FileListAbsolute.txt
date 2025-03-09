@@ -1,0 +1,7 @@
+C:\Users\hagia\Documents\C#\baitap_tuan7\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\hagia\Documents\C#\baitap_tuan7\LINQ\bin\Debug\LINQ.exe
+C:\Users\hagia\Documents\C#\baitap_tuan7\LINQ\bin\Debug\LINQ.pdb
+C:\Users\hagia\Documents\C#\baitap_tuan7\LINQ\obj\Debug\LINQ.csproj.AssemblyReference.cache
+C:\Users\hagia\Documents\C#\baitap_tuan7\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+C:\Users\hagia\Documents\C#\baitap_tuan7\LINQ\obj\Debug\LINQ.exe
+C:\Users\hagia\Documents\C#\baitap_tuan7\LINQ\obj\Debug\LINQ.pdb

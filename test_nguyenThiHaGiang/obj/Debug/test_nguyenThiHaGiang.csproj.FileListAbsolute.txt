@@ -1,0 +1,7 @@
+C:\Users\hagia\Documents\C#\test_nguyenThiHaGiang\bin\Debug\test_nguyenThiHaGiang.exe.config
+C:\Users\hagia\Documents\C#\test_nguyenThiHaGiang\bin\Debug\test_nguyenThiHaGiang.exe
+C:\Users\hagia\Documents\C#\test_nguyenThiHaGiang\bin\Debug\test_nguyenThiHaGiang.pdb
+C:\Users\hagia\Documents\C#\test_nguyenThiHaGiang\obj\Debug\test_nguyenThiHaGiang.csproj.AssemblyReference.cache
+C:\Users\hagia\Documents\C#\test_nguyenThiHaGiang\obj\Debug\test_nguyenThiHaGiang.csproj.CoreCompileInputs.cache
+C:\Users\hagia\Documents\C#\test_nguyenThiHaGiang\obj\Debug\test_nguyenThiHaGiang.exe
+C:\Users\hagia\Documents\C#\test_nguyenThiHaGiang\obj\Debug\test_nguyenThiHaGiang.pdb

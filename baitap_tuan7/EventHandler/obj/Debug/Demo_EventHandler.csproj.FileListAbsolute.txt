@@ -1,0 +1,7 @@
+C:\Users\hagia\Documents\C#\baitap_tuan7\EventHandler\bin\Debug\EventHandler.exe.config
+C:\Users\hagia\Documents\C#\baitap_tuan7\EventHandler\bin\Debug\EventHandler.exe
+C:\Users\hagia\Documents\C#\baitap_tuan7\EventHandler\bin\Debug\EventHandler.pdb
+C:\Users\hagia\Documents\C#\baitap_tuan7\EventHandler\obj\Debug\Demo_EventHandler.csproj.AssemblyReference.cache
+C:\Users\hagia\Documents\C#\baitap_tuan7\EventHandler\obj\Debug\Demo_EventHandler.csproj.CoreCompileInputs.cache
+C:\Users\hagia\Documents\C#\baitap_tuan7\EventHandler\obj\Debug\EventHandler.exe
+C:\Users\hagia\Documents\C#\baitap_tuan7\EventHandler\obj\Debug\EventHandler.pdb

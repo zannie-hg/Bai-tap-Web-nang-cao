@@ -1,0 +1,7 @@
+C:\Users\hagia\Documents\C#\baitap_tuan7\Delegate\bin\Debug\Delegate.exe.config
+C:\Users\hagia\Documents\C#\baitap_tuan7\Delegate\bin\Debug\Delegate.exe
+C:\Users\hagia\Documents\C#\baitap_tuan7\Delegate\bin\Debug\Delegate.pdb
+C:\Users\hagia\Documents\C#\baitap_tuan7\Delegate\obj\Debug\Delegate.csproj.AssemblyReference.cache
+C:\Users\hagia\Documents\C#\baitap_tuan7\Delegate\obj\Debug\Delegate.csproj.CoreCompileInputs.cache
+C:\Users\hagia\Documents\C#\baitap_tuan7\Delegate\obj\Debug\Delegate.exe
+C:\Users\hagia\Documents\C#\baitap_tuan7\Delegate\obj\Debug\Delegate.pdb

@@ -1,0 +1,7 @@
+C:\Users\hagia\Documents\C#\baitap_tuan7\Event\bin\Debug\Event.exe.config
+C:\Users\hagia\Documents\C#\baitap_tuan7\Event\bin\Debug\Event.exe
+C:\Users\hagia\Documents\C#\baitap_tuan7\Event\bin\Debug\Event.pdb
+C:\Users\hagia\Documents\C#\baitap_tuan7\Event\obj\Debug\Event.csproj.AssemblyReference.cache
+C:\Users\hagia\Documents\C#\baitap_tuan7\Event\obj\Debug\Event.csproj.CoreCompileInputs.cache
+C:\Users\hagia\Documents\C#\baitap_tuan7\Event\obj\Debug\Event.exe
+C:\Users\hagia\Documents\C#\baitap_tuan7\Event\obj\Debug\Event.pdb
