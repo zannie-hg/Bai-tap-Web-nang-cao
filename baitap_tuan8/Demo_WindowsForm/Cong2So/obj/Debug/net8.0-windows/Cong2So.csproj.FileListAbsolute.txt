@@ -1,0 +1,17 @@
+C:\Users\hagia\Documents\C#\baitap_tuan7\Demo_WindowsForm\Cong2So\bin\Debug\net8.0-windows\Cong2So.exe
+C:\Users\hagia\Documents\C#\baitap_tuan7\Demo_WindowsForm\Cong2So\bin\Debug\net8.0-windows\Cong2So.deps.json
+C:\Users\hagia\Documents\C#\baitap_tuan7\Demo_WindowsForm\Cong2So\bin\Debug\net8.0-windows\Cong2So.runtimeconfig.json
+C:\Users\hagia\Documents\C#\baitap_tuan7\Demo_WindowsForm\Cong2So\bin\Debug\net8.0-windows\Cong2So.dll
+C:\Users\hagia\Documents\C#\baitap_tuan7\Demo_WindowsForm\Cong2So\bin\Debug\net8.0-windows\Cong2So.pdb
+C:\Users\hagia\Documents\C#\baitap_tuan7\Demo_WindowsForm\Cong2So\obj\Debug\net8.0-windows\Cong2So.Form1.resources
+C:\Users\hagia\Documents\C#\baitap_tuan7\Demo_WindowsForm\Cong2So\obj\Debug\net8.0-windows\Cong2So.csproj.GenerateResource.cache
+C:\Users\hagia\Documents\C#\baitap_tuan7\Demo_WindowsForm\Cong2So\obj\Debug\net8.0-windows\Cong2So.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hagia\Documents\C#\baitap_tuan7\Demo_WindowsForm\Cong2So\obj\Debug\net8.0-windows\Cong2So.AssemblyInfoInputs.cache
+C:\Users\hagia\Documents\C#\baitap_tuan7\Demo_WindowsForm\Cong2So\obj\Debug\net8.0-windows\Cong2So.AssemblyInfo.cs
+C:\Users\hagia\Documents\C#\baitap_tuan7\Demo_WindowsForm\Cong2So\obj\Debug\net8.0-windows\Cong2So.csproj.CoreCompileInputs.cache
+C:\Users\hagia\Documents\C#\baitap_tuan7\Demo_WindowsForm\Cong2So\obj\Debug\net8.0-windows\Cong2So.sourcelink.json
+C:\Users\hagia\Documents\C#\baitap_tuan7\Demo_WindowsForm\Cong2So\obj\Debug\net8.0-windows\Cong2So.dll
+C:\Users\hagia\Documents\C#\baitap_tuan7\Demo_WindowsForm\Cong2So\obj\Debug\net8.0-windows\refint\Cong2So.dll
+C:\Users\hagia\Documents\C#\baitap_tuan7\Demo_WindowsForm\Cong2So\obj\Debug\net8.0-windows\Cong2So.pdb
+C:\Users\hagia\Documents\C#\baitap_tuan7\Demo_WindowsForm\Cong2So\obj\Debug\net8.0-windows\Cong2So.genruntimeconfig.cache
+C:\Users\hagia\Documents\C#\baitap_tuan7\Demo_WindowsForm\Cong2So\obj\Debug\net8.0-windows\ref\Cong2So.dll
