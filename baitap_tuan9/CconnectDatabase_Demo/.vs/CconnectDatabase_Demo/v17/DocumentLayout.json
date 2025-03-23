@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan9\\CconnectDatabase_Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75CBD85A-A29C-4013-A3A0-070E8291C96B}|Student_Infomation\\Student_Infomation.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan9\\cconnectdatabase_demo\\student_infomation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75CBD85A-A29C-4013-A3A0-070E8291C96B}|Student_Infomation\\Student_Infomation.csproj|solutionrelative:student_infomation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75CBD85A-A29C-4013-A3A0-070E8291C96B}|Student_Infomation\\Student_Infomation.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan9\\cconnectdatabase_demo\\student_infomation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{75CBD85A-A29C-4013-A3A0-070E8291C96B}|Student_Infomation\\Student_Infomation.csproj|solutionrelative:student_infomation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75CBD85A-A29C-4013-A3A0-070E8291C96B}|Student_Infomation\\Student_Infomation.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan9\\cconnectdatabase_demo\\student_infomation\\student_infomation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{75CBD85A-A29C-4013-A3A0-070E8291C96B}|Student_Infomation\\Student_Infomation.csproj|solutionrelative:student_infomation\\student_infomation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7484AB59-FAEE-4D6F-A7CB-6919FD9E14D0}|ListOfStudents\\ListOfStudents.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan9\\cconnectdatabase_demo\\listofstudents\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7484AB59-FAEE-4D6F-A7CB-6919FD9E14D0}|ListOfStudents\\ListOfStudents.csproj|solutionrelative:listofstudents\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7484AB59-FAEE-4D6F-A7CB-6919FD9E14D0}|ListOfStudents\\ListOfStudents.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan9\\cconnectdatabase_demo\\listofstudents\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7484AB59-FAEE-4D6F-A7CB-6919FD9E14D0}|ListOfStudents\\ListOfStudents.csproj|solutionrelative:listofstudents\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B90145-1317-4489-AC19-635DC8E946D9}|ViewListOfStudents\\ViewListOfStudents.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan9\\cconnectdatabase_demo\\viewlistofstudents\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B90145-1317-4489-AC19-635DC8E946D9}|ViewListOfStudents\\ViewListOfStudents.csproj|solutionrelative:viewlistofstudents\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B90145-1317-4489-AC19-635DC8E946D9}|ViewListOfStudents\\ViewListOfStudents.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan9\\cconnectdatabase_demo\\viewlistofstudents\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5B90145-1317-4489-AC19-635DC8E946D9}|ViewListOfStudents\\ViewListOfStudents.csproj|solutionrelative:viewlistofstudents\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BC03F87-6989-4A64-B3FF-FDB13AD0DD7F}|StudentCounter\\StudentCounter.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan9\\cconnectdatabase_demo\\studentcounter\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BC03F87-6989-4A64-B3FF-FDB13AD0DD7F}|StudentCounter\\StudentCounter.csproj|solutionrelative:studentcounter\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BC03F87-6989-4A64-B3FF-FDB13AD0DD7F}|StudentCounter\\StudentCounter.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan9\\cconnectdatabase_demo\\studentcounter\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BC03F87-6989-4A64-B3FF-FDB13AD0DD7F}|StudentCounter\\StudentCounter.csproj|solutionrelative:studentcounter\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BC03F87-6989-4A64-B3FF-FDB13AD0DD7F}|StudentCounter\\StudentCounter.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan9\\cconnectdatabase_demo\\studentcounter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BC03F87-6989-4A64-B3FF-FDB13AD0DD7F}|StudentCounter\\StudentCounter.csproj|solutionrelative:studentcounter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BC03F87-6989-4A64-B3FF-FDB13AD0DD7F}|StudentCounter\\StudentCounter.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan9\\cconnectdatabase_demo\\studentcounter\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3BC03F87-6989-4A64-B3FF-FDB13AD0DD7F}|StudentCounter\\StudentCounter.csproj|solutionrelative:studentcounter\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan9\\CconnectDatabase_Demo\\Student_Infomation\\Form1.cs",
+              "RelativeDocumentMoniker": "Student_Infomation\\Form1.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan9\\CconnectDatabase_Demo\\Student_Infomation\\Form1.cs",
+              "RelativeToolTip": "Student_Infomation\\Form1.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAmwIcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T10:08:24.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan9\\CconnectDatabase_Demo\\Student_Infomation\\Form1.cs",
+              "RelativeDocumentMoniker": "Student_Infomation\\Form1.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan9\\CconnectDatabase_Demo\\Student_Infomation\\Form1.cs [Design]",
+              "RelativeToolTip": "Student_Infomation\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T10:08:19.432Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student_Infomation",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan9\\CconnectDatabase_Demo\\Student_Infomation\\Student_Infomation.csproj",
+              "RelativeDocumentMoniker": "Student_Infomation\\Student_Infomation.csproj",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan9\\CconnectDatabase_Demo\\Student_Infomation\\Student_Infomation.csproj",
+              "RelativeToolTip": "Student_Infomation\\Student_Infomation.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-23T10:08:15.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan9\\CconnectDatabase_Demo\\ListOfStudents\\Form1.cs",
+              "RelativeDocumentMoniker": "ListOfStudents\\Form1.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan9\\CconnectDatabase_Demo\\ListOfStudents\\Form1.cs",
+              "RelativeToolTip": "ListOfStudents\\Form1.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAmwEIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T10:06:04.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan9\\CconnectDatabase_Demo\\ListOfStudents\\Form1.cs",
+              "RelativeDocumentMoniker": "ListOfStudents\\Form1.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan9\\CconnectDatabase_Demo\\ListOfStudents\\Form1.cs [Design]",
+              "RelativeToolTip": "ListOfStudents\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T10:05:59.147Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan9\\CconnectDatabase_Demo\\ViewListOfStudents\\Form1.cs",
+              "RelativeDocumentMoniker": "ViewListOfStudents\\Form1.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan9\\CconnectDatabase_Demo\\ViewListOfStudents\\Form1.cs",
+              "RelativeToolTip": "ViewListOfStudents\\Form1.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAmwEIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T10:04:47.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan9\\CconnectDatabase_Demo\\ViewListOfStudents\\Form1.cs",
+              "RelativeDocumentMoniker": "ViewListOfStudents\\Form1.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan9\\CconnectDatabase_Demo\\ViewListOfStudents\\Form1.cs [Design]",
+              "RelativeToolTip": "ViewListOfStudents\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T10:04:12.916Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan9\\CconnectDatabase_Demo\\StudentCounter\\Program.cs",
+              "RelativeDocumentMoniker": "StudentCounter\\Program.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan9\\CconnectDatabase_Demo\\StudentCounter\\Program.cs",
+              "RelativeToolTip": "StudentCounter\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T09:57:22.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan9\\CconnectDatabase_Demo\\StudentCounter\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "StudentCounter\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan9\\CconnectDatabase_Demo\\StudentCounter\\Form1.Designer.cs",
+              "RelativeToolTip": "StudentCounter\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T09:57:20.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan9\\CconnectDatabase_Demo\\StudentCounter\\Form1.cs",
+              "RelativeDocumentMoniker": "StudentCounter\\Form1.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan9\\CconnectDatabase_Demo\\StudentCounter\\Form1.cs",
+              "RelativeToolTip": "StudentCounter\\Form1.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwBkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T09:57:00.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan9\\CconnectDatabase_Demo\\StudentCounter\\Form1.cs",
+              "RelativeDocumentMoniker": "StudentCounter\\Form1.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan9\\CconnectDatabase_Demo\\StudentCounter\\Form1.cs [Design]",
+              "RelativeToolTip": "StudentCounter\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T09:56:55.358Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

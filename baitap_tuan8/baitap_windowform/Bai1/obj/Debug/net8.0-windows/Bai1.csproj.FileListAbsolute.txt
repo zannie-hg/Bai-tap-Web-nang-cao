@@ -1,0 +1,33 @@
+D:\Kì 6\web nâng cao\winform\bt_winform\Bai1\obj\Debug\net8.0-windows\Bai1.Form1.resources
+D:\Kì 6\web nâng cao\winform\bt_winform\Bai1\obj\Debug\net8.0-windows\Bai1.csproj.GenerateResource.cache
+D:\Kì 6\web nâng cao\winform\bt_winform\Bai1\obj\Debug\net8.0-windows\Bai1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kì 6\web nâng cao\winform\bt_winform\Bai1\obj\Debug\net8.0-windows\Bai1.AssemblyInfoInputs.cache
+D:\Kì 6\web nâng cao\winform\bt_winform\Bai1\obj\Debug\net8.0-windows\Bai1.AssemblyInfo.cs
+D:\Kì 6\web nâng cao\winform\bt_winform\Bai1\obj\Debug\net8.0-windows\Bai1.csproj.CoreCompileInputs.cache
+D:\Kì 6\web nâng cao\winform\bt_winform\Bai1\bin\Debug\net8.0-windows\Bai1.exe
+D:\Kì 6\web nâng cao\winform\bt_winform\Bai1\bin\Debug\net8.0-windows\Bai1.deps.json
+D:\Kì 6\web nâng cao\winform\bt_winform\Bai1\bin\Debug\net8.0-windows\Bai1.runtimeconfig.json
+D:\Kì 6\web nâng cao\winform\bt_winform\Bai1\bin\Debug\net8.0-windows\Bai1.dll
+D:\Kì 6\web nâng cao\winform\bt_winform\Bai1\bin\Debug\net8.0-windows\Bai1.pdb
+D:\Kì 6\web nâng cao\winform\bt_winform\Bai1\obj\Debug\net8.0-windows\Bai1.dll
+D:\Kì 6\web nâng cao\winform\bt_winform\Bai1\obj\Debug\net8.0-windows\refint\Bai1.dll
+D:\Kì 6\web nâng cao\winform\bt_winform\Bai1\obj\Debug\net8.0-windows\Bai1.pdb
+D:\Kì 6\web nâng cao\winform\bt_winform\Bai1\obj\Debug\net8.0-windows\Bai1.genruntimeconfig.cache
+D:\Kì 6\web nâng cao\winform\bt_winform\Bai1\obj\Debug\net8.0-windows\ref\Bai1.dll
+C:\Users\hagia\Documents\C#\baitap_tuan8\bt_winform\bt_winform\Bai1\bin\Debug\net8.0-windows\Bai1.exe
+C:\Users\hagia\Documents\C#\baitap_tuan8\bt_winform\bt_winform\Bai1\bin\Debug\net8.0-windows\Bai1.deps.json
+C:\Users\hagia\Documents\C#\baitap_tuan8\bt_winform\bt_winform\Bai1\bin\Debug\net8.0-windows\Bai1.runtimeconfig.json
+C:\Users\hagia\Documents\C#\baitap_tuan8\bt_winform\bt_winform\Bai1\bin\Debug\net8.0-windows\Bai1.dll
+C:\Users\hagia\Documents\C#\baitap_tuan8\bt_winform\bt_winform\Bai1\bin\Debug\net8.0-windows\Bai1.pdb
+C:\Users\hagia\Documents\C#\baitap_tuan8\bt_winform\bt_winform\Bai1\obj\Debug\net8.0-windows\Bai1.Form1.resources
+C:\Users\hagia\Documents\C#\baitap_tuan8\bt_winform\bt_winform\Bai1\obj\Debug\net8.0-windows\Bai1.csproj.GenerateResource.cache
+C:\Users\hagia\Documents\C#\baitap_tuan8\bt_winform\bt_winform\Bai1\obj\Debug\net8.0-windows\Bai1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hagia\Documents\C#\baitap_tuan8\bt_winform\bt_winform\Bai1\obj\Debug\net8.0-windows\Bai1.AssemblyInfoInputs.cache
+C:\Users\hagia\Documents\C#\baitap_tuan8\bt_winform\bt_winform\Bai1\obj\Debug\net8.0-windows\Bai1.AssemblyInfo.cs
+C:\Users\hagia\Documents\C#\baitap_tuan8\bt_winform\bt_winform\Bai1\obj\Debug\net8.0-windows\Bai1.csproj.CoreCompileInputs.cache
+C:\Users\hagia\Documents\C#\baitap_tuan8\bt_winform\bt_winform\Bai1\obj\Debug\net8.0-windows\Bai1.sourcelink.json
+C:\Users\hagia\Documents\C#\baitap_tuan8\bt_winform\bt_winform\Bai1\obj\Debug\net8.0-windows\Bai1.dll
+C:\Users\hagia\Documents\C#\baitap_tuan8\bt_winform\bt_winform\Bai1\obj\Debug\net8.0-windows\refint\Bai1.dll
+C:\Users\hagia\Documents\C#\baitap_tuan8\bt_winform\bt_winform\Bai1\obj\Debug\net8.0-windows\Bai1.pdb
+C:\Users\hagia\Documents\C#\baitap_tuan8\bt_winform\bt_winform\Bai1\obj\Debug\net8.0-windows\Bai1.genruntimeconfig.cache
+C:\Users\hagia\Documents\C#\baitap_tuan8\bt_winform\bt_winform\Bai1\obj\Debug\net8.0-windows\ref\Bai1.dll

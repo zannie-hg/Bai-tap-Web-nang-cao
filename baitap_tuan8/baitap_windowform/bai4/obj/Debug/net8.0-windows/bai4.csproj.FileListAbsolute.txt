@@ -1,0 +1,17 @@
+C:\Users\hagia\Documents\C#\baitap_tuan8\baitap_windowform\bai4\bin\Debug\net8.0-windows\bai4.exe
+C:\Users\hagia\Documents\C#\baitap_tuan8\baitap_windowform\bai4\bin\Debug\net8.0-windows\bai4.deps.json
+C:\Users\hagia\Documents\C#\baitap_tuan8\baitap_windowform\bai4\bin\Debug\net8.0-windows\bai4.runtimeconfig.json
+C:\Users\hagia\Documents\C#\baitap_tuan8\baitap_windowform\bai4\bin\Debug\net8.0-windows\bai4.dll
+C:\Users\hagia\Documents\C#\baitap_tuan8\baitap_windowform\bai4\bin\Debug\net8.0-windows\bai4.pdb
+C:\Users\hagia\Documents\C#\baitap_tuan8\baitap_windowform\bai4\obj\Debug\net8.0-windows\bai4.Form1.resources
+C:\Users\hagia\Documents\C#\baitap_tuan8\baitap_windowform\bai4\obj\Debug\net8.0-windows\bai4.csproj.GenerateResource.cache
+C:\Users\hagia\Documents\C#\baitap_tuan8\baitap_windowform\bai4\obj\Debug\net8.0-windows\bai4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hagia\Documents\C#\baitap_tuan8\baitap_windowform\bai4\obj\Debug\net8.0-windows\bai4.AssemblyInfoInputs.cache
+C:\Users\hagia\Documents\C#\baitap_tuan8\baitap_windowform\bai4\obj\Debug\net8.0-windows\bai4.AssemblyInfo.cs
+C:\Users\hagia\Documents\C#\baitap_tuan8\baitap_windowform\bai4\obj\Debug\net8.0-windows\bai4.csproj.CoreCompileInputs.cache
+C:\Users\hagia\Documents\C#\baitap_tuan8\baitap_windowform\bai4\obj\Debug\net8.0-windows\bai4.sourcelink.json
+C:\Users\hagia\Documents\C#\baitap_tuan8\baitap_windowform\bai4\obj\Debug\net8.0-windows\bai4.dll
+C:\Users\hagia\Documents\C#\baitap_tuan8\baitap_windowform\bai4\obj\Debug\net8.0-windows\refint\bai4.dll
+C:\Users\hagia\Documents\C#\baitap_tuan8\baitap_windowform\bai4\obj\Debug\net8.0-windows\bai4.pdb
+C:\Users\hagia\Documents\C#\baitap_tuan8\baitap_windowform\bai4\obj\Debug\net8.0-windows\bai4.genruntimeconfig.cache
+C:\Users\hagia\Documents\C#\baitap_tuan8\baitap_windowform\bai4\obj\Debug\net8.0-windows\ref\bai4.dll

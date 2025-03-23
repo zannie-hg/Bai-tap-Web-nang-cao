@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan8\\vidu_chuong6\\vidu_chuong6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE94E33C-0E68-4A5D-98A9-95820ACD1CBB}|DateTimerPicker\\DateTimerPicker.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan8\\vidu_chuong6\\vidu_chuong6\\datetimerpicker\\datetimerpicker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BE94E33C-0E68-4A5D-98A9-95820ACD1CBB}|DateTimerPicker\\DateTimerPicker.csproj|solutionrelative:datetimerpicker\\datetimerpicker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE94E33C-0E68-4A5D-98A9-95820ACD1CBB}|DateTimerPicker\\DateTimerPicker.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan8\\vidu_chuong6\\vidu_chuong6\\datetimerpicker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE94E33C-0E68-4A5D-98A9-95820ACD1CBB}|DateTimerPicker\\DateTimerPicker.csproj|solutionrelative:datetimerpicker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4AE0ACB-6D1F-4A67-A777-DEF3E295873E}|CopyWithProgress\\CopyWithProgress.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan8\\vidu_chuong6\\vidu_chuong6\\copywithprogress\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4AE0ACB-6D1F-4A67-A777-DEF3E295873E}|CopyWithProgress\\CopyWithProgress.csproj|solutionrelative:copywithprogress\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E942198-1D50-4DDA-98F0-4205A933918E}|MenuStrips\\MenuStrips.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan8\\vidu_chuong6\\vidu_chuong6\\menustrips\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E942198-1D50-4DDA-98F0-4205A933918E}|MenuStrips\\MenuStrips.csproj|solutionrelative:menustrips\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E942198-1D50-4DDA-98F0-4205A933918E}|MenuStrips\\MenuStrips.csproj|C:\\Users\\hagia\\Documents\\C#\\baitap_tuan8\\vidu_chuong6\\vidu_chuong6\\menustrips\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E942198-1D50-4DDA-98F0-4205A933918E}|MenuStrips\\MenuStrips.csproj|solutionrelative:menustrips\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E942198-1D50-4DDA-98F0-4205A933918E}|MenuStrips\\MenuStrips.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan8\\vidu_chuong6\\vidu_chuong6\\menustrips\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E942198-1D50-4DDA-98F0-4205A933918E}|MenuStrips\\MenuStrips.csproj|solutionrelative:menustrips\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan8\\vidu_chuong6\\vidu_chuong6\\DateTimerPicker\\Form1.cs",
+              "RelativeDocumentMoniker": "DateTimerPicker\\Form1.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan8\\vidu_chuong6\\vidu_chuong6\\DateTimerPicker\\Form1.cs [Design]",
+              "RelativeToolTip": "DateTimerPicker\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T16:34:30.854Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DateTimerPicker",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan8\\vidu_chuong6\\vidu_chuong6\\DateTimerPicker\\DateTimerPicker.csproj",
+              "RelativeDocumentMoniker": "DateTimerPicker\\DateTimerPicker.csproj",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan8\\vidu_chuong6\\vidu_chuong6\\DateTimerPicker\\DateTimerPicker.csproj",
+              "RelativeToolTip": "DateTimerPicker\\DateTimerPicker.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-16T16:34:23.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan8\\vidu_chuong6\\vidu_chuong6\\CopyWithProgress\\Form1.cs",
+              "RelativeDocumentMoniker": "CopyWithProgress\\Form1.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan8\\vidu_chuong6\\vidu_chuong6\\CopyWithProgress\\Form1.cs [Design]",
+              "RelativeToolTip": "CopyWithProgress\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T16:33:51.065Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan8\\vidu_chuong6\\vidu_chuong6\\MenuStrips\\frmMain.cs",
+              "RelativeDocumentMoniker": "MenuStrips\\frmMain.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan8\\vidu_chuong6\\vidu_chuong6\\MenuStrips\\frmMain.cs",
+              "RelativeToolTip": "MenuStrips\\frmMain.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAUwEMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T13:41:33.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan8\\vidu_chuong6\\vidu_chuong6\\MenuStrips\\Program.cs",
+              "RelativeDocumentMoniker": "MenuStrips\\Program.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan8\\vidu_chuong6\\vidu_chuong6\\MenuStrips\\Program.cs",
+              "RelativeToolTip": "MenuStrips\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T13:49:35.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan8\\vidu_chuong6\\vidu_chuong6\\MenuStrips\\frmMain.cs",
+              "RelativeDocumentMoniker": "MenuStrips\\frmMain.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan8\\vidu_chuong6\\vidu_chuong6\\MenuStrips\\frmMain.cs [Design]",
+              "RelativeToolTip": "MenuStrips\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T13:38:40.376Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

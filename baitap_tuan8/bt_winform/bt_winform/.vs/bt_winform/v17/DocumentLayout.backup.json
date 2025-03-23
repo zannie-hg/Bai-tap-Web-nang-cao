@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan8\\bt_winform\\bt_winform\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7CAF718-8B9D-489D-B29F-F5F7134E4B77}|Bai5\\Bai5.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan8\\bt_winform\\bt_winform\\bai5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C7CAF718-8B9D-489D-B29F-F5F7134E4B77}|Bai5\\Bai5.csproj|solutionrelative:bai5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C271DAD9-5B14-424D-935A-C1721ADD54A2}|Bai1\\Bai1.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan8\\bt_winform\\bt_winform\\bai1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C271DAD9-5B14-424D-935A-C1721ADD54A2}|Bai1\\Bai1.csproj|solutionrelative:bai1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan8\\bt_winform\\bt_winform\\Bai5\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai5\\Form1.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan8\\bt_winform\\bt_winform\\Bai5\\Form1.cs [Design]",
+              "RelativeToolTip": "Bai5\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T16:27:04.106Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan8\\bt_winform\\bt_winform\\Bai1\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai1\\Form1.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan8\\bt_winform\\bt_winform\\Bai1\\Form1.cs [Design]",
+              "RelativeToolTip": "Bai1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T16:26:13.077Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
