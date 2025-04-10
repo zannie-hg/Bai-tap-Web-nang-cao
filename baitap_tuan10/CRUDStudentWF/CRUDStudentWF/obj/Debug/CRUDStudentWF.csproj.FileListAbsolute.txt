@@ -1,0 +1,10 @@
+C:\Users\hagia\Documents\C#\baitap_tuan10\CRUDStudentWF\CRUDStudentWF\bin\Debug\CRUDStudentWF.exe.config
+C:\Users\hagia\Documents\C#\baitap_tuan10\CRUDStudentWF\CRUDStudentWF\bin\Debug\CRUDStudentWF.exe
+C:\Users\hagia\Documents\C#\baitap_tuan10\CRUDStudentWF\CRUDStudentWF\bin\Debug\CRUDStudentWF.pdb
+C:\Users\hagia\Documents\C#\baitap_tuan10\CRUDStudentWF\CRUDStudentWF\obj\Debug\CRUDStudentWF.csproj.AssemblyReference.cache
+C:\Users\hagia\Documents\C#\baitap_tuan10\CRUDStudentWF\CRUDStudentWF\obj\Debug\CRUDStudentWF.Form1.resources
+C:\Users\hagia\Documents\C#\baitap_tuan10\CRUDStudentWF\CRUDStudentWF\obj\Debug\CRUDStudentWF.Properties.Resources.resources
+C:\Users\hagia\Documents\C#\baitap_tuan10\CRUDStudentWF\CRUDStudentWF\obj\Debug\CRUDStudentWF.csproj.GenerateResource.cache
+C:\Users\hagia\Documents\C#\baitap_tuan10\CRUDStudentWF\CRUDStudentWF\obj\Debug\CRUDStudentWF.csproj.CoreCompileInputs.cache
+C:\Users\hagia\Documents\C#\baitap_tuan10\CRUDStudentWF\CRUDStudentWF\obj\Debug\CRUDStudentWF.exe
+C:\Users\hagia\Documents\C#\baitap_tuan10\CRUDStudentWF\CRUDStudentWF\obj\Debug\CRUDStudentWF.pdb

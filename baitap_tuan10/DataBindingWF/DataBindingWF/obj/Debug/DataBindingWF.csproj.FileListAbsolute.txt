@@ -1,0 +1,12 @@
+C:\Users\hagia\Documents\C#\baitap_tuan10\DataBindingWF\DataBindingWF\bin\Debug\DataBindingWF.exe.config
+C:\Users\hagia\Documents\C#\baitap_tuan10\DataBindingWF\DataBindingWF\bin\Debug\DataBindingWF.exe
+C:\Users\hagia\Documents\C#\baitap_tuan10\DataBindingWF\DataBindingWF\bin\Debug\DataBindingWF.pdb
+C:\Users\hagia\Documents\C#\baitap_tuan10\DataBindingWF\DataBindingWF\obj\Debug\DataBindingWF.csproj.AssemblyReference.cache
+C:\Users\hagia\Documents\C#\baitap_tuan10\DataBindingWF\DataBindingWF\obj\Debug\DataBindingWF.Form1.resources
+C:\Users\hagia\Documents\C#\baitap_tuan10\DataBindingWF\DataBindingWF\obj\Debug\DataBindingWF.Properties.Resources.resources
+C:\Users\hagia\Documents\C#\baitap_tuan10\DataBindingWF\DataBindingWF\obj\Debug\DataBindingWF.ShowListOfStudentByClass.resources
+C:\Users\hagia\Documents\C#\baitap_tuan10\DataBindingWF\DataBindingWF\obj\Debug\DataBindingWF.csproj.GenerateResource.cache
+C:\Users\hagia\Documents\C#\baitap_tuan10\DataBindingWF\DataBindingWF\obj\Debug\DataBindingWF.csproj.CoreCompileInputs.cache
+C:\Users\hagia\Documents\C#\baitap_tuan10\DataBindingWF\DataBindingWF\obj\Debug\DataBindingWF.exe
+C:\Users\hagia\Documents\C#\baitap_tuan10\DataBindingWF\DataBindingWF\obj\Debug\DataBindingWF.pdb
+C:\Users\hagia\Documents\C#\baitap_tuan10\DataBindingWF\DataBindingWF\obj\Debug\DataBindingWF.SearchByStudentName.resources

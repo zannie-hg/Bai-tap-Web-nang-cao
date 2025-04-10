@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan10\\NguyenThiHaGiangWF_BOOK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03CE19E1-0234-4619-86F7-60D79FBE842F}|NguyenThiHaGiangWF_BOOK\\NguyenThiHaGiangWF_BOOK.csproj|C:\\Users\\hagia\\Documents\\C#\\baitap_tuan10\\NguyenThiHaGiangWF_BOOK\\nguyenthihagiangwf_book\\searchbybookname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{03CE19E1-0234-4619-86F7-60D79FBE842F}|NguyenThiHaGiangWF_BOOK\\NguyenThiHaGiangWF_BOOK.csproj|solutionrelative:nguyenthihagiangwf_book\\searchbybookname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CE19E1-0234-4619-86F7-60D79FBE842F}|NguyenThiHaGiangWF_BOOK\\NguyenThiHaGiangWF_BOOK.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan10\\nguyenthihagiangwf_book\\nguyenthihagiangwf_book\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03CE19E1-0234-4619-86F7-60D79FBE842F}|NguyenThiHaGiangWF_BOOK\\NguyenThiHaGiangWF_BOOK.csproj|solutionrelative:nguyenthihagiangwf_book\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CE19E1-0234-4619-86F7-60D79FBE842F}|NguyenThiHaGiangWF_BOOK\\NguyenThiHaGiangWF_BOOK.csproj|C:\\Users\\hagia\\Documents\\C#\\baitap_tuan10\\NguyenThiHaGiangWF_BOOK\\nguyenthihagiangwf_book\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{03CE19E1-0234-4619-86F7-60D79FBE842F}|NguyenThiHaGiangWF_BOOK\\NguyenThiHaGiangWF_BOOK.csproj|solutionrelative:nguyenthihagiangwf_book\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CE19E1-0234-4619-86F7-60D79FBE842F}|NguyenThiHaGiangWF_BOOK\\NguyenThiHaGiangWF_BOOK.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan10\\nguyenthihagiangwf_book\\nguyenthihagiangwf_book\\searchbybookname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03CE19E1-0234-4619-86F7-60D79FBE842F}|NguyenThiHaGiangWF_BOOK\\NguyenThiHaGiangWF_BOOK.csproj|solutionrelative:nguyenthihagiangwf_book\\searchbybookname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CE19E1-0234-4619-86F7-60D79FBE842F}|NguyenThiHaGiangWF_BOOK\\NguyenThiHaGiangWF_BOOK.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan10\\nguyenthihagiangwf_book\\nguyenthihagiangwf_book\\updatebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03CE19E1-0234-4619-86F7-60D79FBE842F}|NguyenThiHaGiangWF_BOOK\\NguyenThiHaGiangWF_BOOK.csproj|solutionrelative:nguyenthihagiangwf_book\\updatebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CE19E1-0234-4619-86F7-60D79FBE842F}|NguyenThiHaGiangWF_BOOK\\NguyenThiHaGiangWF_BOOK.csproj|C:\\Users\\hagia\\Documents\\C#\\baitap_tuan10\\NguyenThiHaGiangWF_BOOK\\nguyenthihagiangwf_book\\updatebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{03CE19E1-0234-4619-86F7-60D79FBE842F}|NguyenThiHaGiangWF_BOOK\\NguyenThiHaGiangWF_BOOK.csproj|solutionrelative:nguyenthihagiangwf_book\\updatebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CE19E1-0234-4619-86F7-60D79FBE842F}|NguyenThiHaGiangWF_BOOK\\NguyenThiHaGiangWF_BOOK.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan10\\nguyenthihagiangwf_book\\nguyenthihagiangwf_book\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03CE19E1-0234-4619-86F7-60D79FBE842F}|NguyenThiHaGiangWF_BOOK\\NguyenThiHaGiangWF_BOOK.csproj|solutionrelative:nguyenthihagiangwf_book\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SearchbyBookName.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan10\\NguyenThiHaGiangWF_BOOK\\NguyenThiHaGiangWF_BOOK\\SearchbyBookName.cs",
+              "RelativeDocumentMoniker": "NguyenThiHaGiangWF_BOOK\\SearchbyBookName.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan10\\NguyenThiHaGiangWF_BOOK\\NguyenThiHaGiangWF_BOOK\\SearchbyBookName.cs [Design]",
+              "RelativeToolTip": "NguyenThiHaGiangWF_BOOK\\SearchbyBookName.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T02:11:07.288Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan10\\NguyenThiHaGiangWF_BOOK\\NguyenThiHaGiangWF_BOOK\\MainForm.cs",
+              "RelativeDocumentMoniker": "NguyenThiHaGiangWF_BOOK\\MainForm.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan10\\NguyenThiHaGiangWF_BOOK\\NguyenThiHaGiangWF_BOOK\\MainForm.cs [Design]",
+              "RelativeToolTip": "NguyenThiHaGiangWF_BOOK\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T01:59:30.971Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateBook.cs",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan10\\NguyenThiHaGiangWF_BOOK\\NguyenThiHaGiangWF_BOOK\\UpdateBook.cs",
+              "RelativeDocumentMoniker": "NguyenThiHaGiangWF_BOOK\\UpdateBook.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan10\\NguyenThiHaGiangWF_BOOK\\NguyenThiHaGiangWF_BOOK\\UpdateBook.cs",
+              "RelativeToolTip": "NguyenThiHaGiangWF_BOOK\\UpdateBook.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAgwFYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T01:49:55.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SearchbyBookName.cs",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan10\\NguyenThiHaGiangWF_BOOK\\NguyenThiHaGiangWF_BOOK\\SearchbyBookName.cs",
+              "RelativeDocumentMoniker": "NguyenThiHaGiangWF_BOOK\\SearchbyBookName.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan10\\NguyenThiHaGiangWF_BOOK\\NguyenThiHaGiangWF_BOOK\\SearchbyBookName.cs",
+              "RelativeToolTip": "NguyenThiHaGiangWF_BOOK\\SearchbyBookName.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAgwC4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T01:58:12.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan10\\NguyenThiHaGiangWF_BOOK\\NguyenThiHaGiangWF_BOOK\\MainForm.cs",
+              "RelativeDocumentMoniker": "NguyenThiHaGiangWF_BOOK\\MainForm.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan10\\NguyenThiHaGiangWF_BOOK\\NguyenThiHaGiangWF_BOOK\\MainForm.cs",
+              "RelativeToolTip": "NguyenThiHaGiangWF_BOOK\\MainForm.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T01:59:50.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateBook.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan10\\NguyenThiHaGiangWF_BOOK\\NguyenThiHaGiangWF_BOOK\\UpdateBook.cs",
+              "RelativeDocumentMoniker": "NguyenThiHaGiangWF_BOOK\\UpdateBook.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan10\\NguyenThiHaGiangWF_BOOK\\NguyenThiHaGiangWF_BOOK\\UpdateBook.cs [Design]",
+              "RelativeToolTip": "NguyenThiHaGiangWF_BOOK\\UpdateBook.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T01:52:18.326Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan10\\NguyenThiHaGiangWF_BOOK\\NguyenThiHaGiangWF_BOOK\\Program.cs",
+              "RelativeDocumentMoniker": "NguyenThiHaGiangWF_BOOK\\Program.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan10\\NguyenThiHaGiangWF_BOOK\\NguyenThiHaGiangWF_BOOK\\Program.cs",
+              "RelativeToolTip": "NguyenThiHaGiangWF_BOOK\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAjwA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T01:47:51.851Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

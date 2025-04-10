@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListOfStudents", "ListOfStu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Student_Infomation", "Student_Infomation\Student_Infomation.csproj", "{75CBD85A-A29C-4013-A3A0-070E8291C96B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataGridView", "DataGridView\DataGridView.csproj", "{1BD642F6-1238-426E-8868-3942C73178BC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{75CBD85A-A29C-4013-A3A0-070E8291C96B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75CBD85A-A29C-4013-A3A0-070E8291C96B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75CBD85A-A29C-4013-A3A0-070E8291C96B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BD642F6-1238-426E-8868-3942C73178BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BD642F6-1238-426E-8868-3942C73178BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BD642F6-1238-426E-8868-3942C73178BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BD642F6-1238-426E-8868-3942C73178BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

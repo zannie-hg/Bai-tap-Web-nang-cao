@@ -1,0 +1,12 @@
+C:\Users\hagia\Documents\C#\baitap_tuan10\WindowsFormsDataBinding\DataBindingStudent\obj\Debug\DataBindingStudent.csproj.AssemblyReference.cache
+C:\Users\hagia\Documents\C#\baitap_tuan10\WindowsFormsDataBinding\DataBindingStudent\obj\Debug\DataBindingStudent.Form1.resources
+C:\Users\hagia\Documents\C#\baitap_tuan10\WindowsFormsDataBinding\DataBindingStudent\obj\Debug\DataBindingStudent.frmStudentByClass.resources
+C:\Users\hagia\Documents\C#\baitap_tuan10\WindowsFormsDataBinding\DataBindingStudent\obj\Debug\DataBindingStudent.Properties.Resources.resources
+C:\Users\hagia\Documents\C#\baitap_tuan10\WindowsFormsDataBinding\DataBindingStudent\obj\Debug\DataBindingStudent.csproj.GenerateResource.cache
+C:\Users\hagia\Documents\C#\baitap_tuan10\WindowsFormsDataBinding\DataBindingStudent\obj\Debug\DataBindingStudent.csproj.CoreCompileInputs.cache
+C:\Users\hagia\Documents\C#\baitap_tuan10\WindowsFormsDataBinding\DataBindingStudent\bin\Debug\DataBindingStudent.exe.config
+C:\Users\hagia\Documents\C#\baitap_tuan10\WindowsFormsDataBinding\DataBindingStudent\bin\Debug\DataBindingStudent.exe
+C:\Users\hagia\Documents\C#\baitap_tuan10\WindowsFormsDataBinding\DataBindingStudent\bin\Debug\DataBindingStudent.pdb
+C:\Users\hagia\Documents\C#\baitap_tuan10\WindowsFormsDataBinding\DataBindingStudent\obj\Debug\DataBindingStudent.exe
+C:\Users\hagia\Documents\C#\baitap_tuan10\WindowsFormsDataBinding\DataBindingStudent\obj\Debug\DataBindingStudent.pdb
+C:\Users\hagia\Documents\C#\baitap_tuan10\WindowsFormsDataBinding\DataBindingStudent\obj\Debug\DataBindingStudent.frmSearchByName.resources
