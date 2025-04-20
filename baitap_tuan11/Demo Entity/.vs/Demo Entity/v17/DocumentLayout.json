@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan10\\Demo Entity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4973C479-9ECB-4E28-8FE6-748C1155BA44}|Demo Entity\\Demo Entity.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan10\\demo entity\\demo entity\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4973C479-9ECB-4E28-8FE6-748C1155BA44}|Demo Entity\\Demo Entity.csproj|solutionrelative:demo entity\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4973C479-9ECB-4E28-8FE6-748C1155BA44}|Demo Entity\\Demo Entity.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan10\\demo entity\\demo entity\\demo entity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4973C479-9ECB-4E28-8FE6-748C1155BA44}|Demo Entity\\Demo Entity.csproj|solutionrelative:demo entity\\demo entity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Demo Entity.csproj",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan10\\Demo Entity\\Demo Entity\\Demo Entity.csproj",
+              "RelativeDocumentMoniker": "Demo Entity\\Demo Entity.csproj",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan10\\Demo Entity\\Demo Entity\\Demo Entity.csproj",
+              "RelativeToolTip": "Demo Entity\\Demo Entity.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-14T01:47:01.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan10\\Demo Entity\\Demo Entity\\Form1.cs",
+              "RelativeDocumentMoniker": "Demo Entity\\Form1.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan10\\Demo Entity\\Demo Entity\\Form1.cs [Design]",
+              "RelativeToolTip": "Demo Entity\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T01:43:34.59Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
