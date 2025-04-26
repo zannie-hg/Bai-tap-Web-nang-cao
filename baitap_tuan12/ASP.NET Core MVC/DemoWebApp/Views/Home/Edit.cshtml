@@ -1,0 +1,19 @@
+﻿@model DemoWebApp.Models.Product
+<style>
+    .form-line {
+        margin-bottom: 15px;
+    }
+</style>
+
+<form asp-action="Edit" method="post">
+    <label>Product Name</label>
+    <input asp-for="ProductName" />
+    <br />
+    <label>Unit Price</label>
+    <input asp-for="UnitPrice" />
+    <br />
+    <label>Units In Stock</label>
+    <input asp-for="UnitsInStock" />
+    <br />
+    <button type="submit">Submit</button>
+</form>

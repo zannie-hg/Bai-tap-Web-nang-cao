@@ -1,0 +1,530 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan12\\ASP.NET Core MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{804AE475-0EFC-437F-81CA-81761946BEB3}|DemoWebApp\\DemoWebApp.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan12\\asp.net core mvc\\demowebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{804AE475-0EFC-437F-81CA-81761946BEB3}|DemoWebApp\\DemoWebApp.csproj|solutionrelative:demowebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{804AE475-0EFC-437F-81CA-81761946BEB3}|DemoWebApp\\DemoWebApp.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan12\\asp.net core mvc\\demowebapp\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{804AE475-0EFC-437F-81CA-81761946BEB3}|DemoWebApp\\DemoWebApp.csproj|solutionrelative:demowebapp\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1A2EEC-9DC0-4A4F-BF4C-513FF0AB3EE5}|MyStockApp_EntityFW\\MyStockApp_EntityFW.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan12\\asp.net core mvc\\mystockapp_entityfw\\mystockapp_entityfw.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FF1A2EEC-9DC0-4A4F-BF4C-513FF0AB3EE5}|MyStockApp_EntityFW\\MyStockApp_EntityFW.csproj|solutionrelative:mystockapp_entityfw\\mystockapp_entityfw.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1A2EEC-9DC0-4A4F-BF4C-513FF0AB3EE5}|MyStockApp_EntityFW\\MyStockApp_EntityFW.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan12\\asp.net core mvc\\mystockapp_entityfw\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FF1A2EEC-9DC0-4A4F-BF4C-513FF0AB3EE5}|MyStockApp_EntityFW\\MyStockApp_EntityFW.csproj|solutionrelative:mystockapp_entityfw\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1A2EEC-9DC0-4A4F-BF4C-513FF0AB3EE5}|MyStockApp_EntityFW\\MyStockApp_EntityFW.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan12\\asp.net core mvc\\mystockapp_entityfw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1A2EEC-9DC0-4A4F-BF4C-513FF0AB3EE5}|MyStockApp_EntityFW\\MyStockApp_EntityFW.csproj|solutionrelative:mystockapp_entityfw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1A2EEC-9DC0-4A4F-BF4C-513FF0AB3EE5}|MyStockApp_EntityFW\\MyStockApp_EntityFW.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan12\\asp.net core mvc\\mystockapp_entityfw\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF1A2EEC-9DC0-4A4F-BF4C-513FF0AB3EE5}|MyStockApp_EntityFW\\MyStockApp_EntityFW.csproj|solutionrelative:mystockapp_entityfw\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1A2EEC-9DC0-4A4F-BF4C-513FF0AB3EE5}|MyStockApp_EntityFW\\MyStockApp_EntityFW.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan12\\asp.net core mvc\\mystockapp_entityfw\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF1A2EEC-9DC0-4A4F-BF4C-513FF0AB3EE5}|MyStockApp_EntityFW\\MyStockApp_EntityFW.csproj|solutionrelative:mystockapp_entityfw\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1A2EEC-9DC0-4A4F-BF4C-513FF0AB3EE5}|MyStockApp_EntityFW\\MyStockApp_EntityFW.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan12\\asp.net core mvc\\mystockapp_entityfw\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF1A2EEC-9DC0-4A4F-BF4C-513FF0AB3EE5}|MyStockApp_EntityFW\\MyStockApp_EntityFW.csproj|solutionrelative:mystockapp_entityfw\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1A2EEC-9DC0-4A4F-BF4C-513FF0AB3EE5}|MyStockApp_EntityFW\\MyStockApp_EntityFW.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan12\\asp.net core mvc\\mystockapp_entityfw\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1A2EEC-9DC0-4A4F-BF4C-513FF0AB3EE5}|MyStockApp_EntityFW\\MyStockApp_EntityFW.csproj|solutionrelative:mystockapp_entityfw\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1A2EEC-9DC0-4A4F-BF4C-513FF0AB3EE5}|MyStockApp_EntityFW\\MyStockApp_EntityFW.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan12\\asp.net core mvc\\mystockapp_entityfw\\models\\mystockcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1A2EEC-9DC0-4A4F-BF4C-513FF0AB3EE5}|MyStockApp_EntityFW\\MyStockApp_EntityFW.csproj|solutionrelative:mystockapp_entityfw\\models\\mystockcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1A2EEC-9DC0-4A4F-BF4C-513FF0AB3EE5}|MyStockApp_EntityFW\\MyStockApp_EntityFW.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan12\\asp.net core mvc\\mystockapp_entityfw\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1A2EEC-9DC0-4A4F-BF4C-513FF0AB3EE5}|MyStockApp_EntityFW\\MyStockApp_EntityFW.csproj|solutionrelative:mystockapp_entityfw\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1A2EEC-9DC0-4A4F-BF4C-513FF0AB3EE5}|MyStockApp_EntityFW\\MyStockApp_EntityFW.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan12\\asp.net core mvc\\mystockapp_entityfw\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1A2EEC-9DC0-4A4F-BF4C-513FF0AB3EE5}|MyStockApp_EntityFW\\MyStockApp_EntityFW.csproj|solutionrelative:mystockapp_entityfw\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1A2EEC-9DC0-4A4F-BF4C-513FF0AB3EE5}|MyStockApp_EntityFW\\MyStockApp_EntityFW.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan12\\asp.net core mvc\\mystockapp_entityfw\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1A2EEC-9DC0-4A4F-BF4C-513FF0AB3EE5}|MyStockApp_EntityFW\\MyStockApp_EntityFW.csproj|solutionrelative:mystockapp_entityfw\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1A2EEC-9DC0-4A4F-BF4C-513FF0AB3EE5}|MyStockApp_EntityFW\\MyStockApp_EntityFW.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan12\\asp.net core mvc\\mystockapp_entityfw\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF1A2EEC-9DC0-4A4F-BF4C-513FF0AB3EE5}|MyStockApp_EntityFW\\MyStockApp_EntityFW.csproj|solutionrelative:mystockapp_entityfw\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{804AE475-0EFC-437F-81CA-81761946BEB3}|DemoWebApp\\DemoWebApp.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan12\\asp.net core mvc\\demowebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{804AE475-0EFC-437F-81CA-81761946BEB3}|DemoWebApp\\DemoWebApp.csproj|solutionrelative:demowebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{804AE475-0EFC-437F-81CA-81761946BEB3}|DemoWebApp\\DemoWebApp.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan12\\asp.net core mvc\\demowebapp\\models\\producteditmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{804AE475-0EFC-437F-81CA-81761946BEB3}|DemoWebApp\\DemoWebApp.csproj|solutionrelative:demowebapp\\models\\producteditmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{804AE475-0EFC-437F-81CA-81761946BEB3}|DemoWebApp\\DemoWebApp.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan12\\asp.net core mvc\\demowebapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{804AE475-0EFC-437F-81CA-81761946BEB3}|DemoWebApp\\DemoWebApp.csproj|solutionrelative:demowebapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{804AE475-0EFC-437F-81CA-81761946BEB3}|DemoWebApp\\DemoWebApp.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan12\\asp.net core mvc\\demowebapp\\models\\homemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{804AE475-0EFC-437F-81CA-81761946BEB3}|DemoWebApp\\DemoWebApp.csproj|solutionrelative:demowebapp\\models\\homemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{804AE475-0EFC-437F-81CA-81761946BEB3}|DemoWebApp\\DemoWebApp.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan12\\asp.net core mvc\\demowebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{804AE475-0EFC-437F-81CA-81761946BEB3}|DemoWebApp\\DemoWebApp.csproj|solutionrelative:demowebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{804AE475-0EFC-437F-81CA-81761946BEB3}|DemoWebApp\\DemoWebApp.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan12\\asp.net core mvc\\demowebapp\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{804AE475-0EFC-437F-81CA-81761946BEB3}|DemoWebApp\\DemoWebApp.csproj|solutionrelative:demowebapp\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1A2EEC-9DC0-4A4F-BF4C-513FF0AB3EE5}|MyStockApp_EntityFW\\MyStockApp_EntityFW.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan12\\asp.net core mvc\\mystockapp_entityfw\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF1A2EEC-9DC0-4A4F-BF4C-513FF0AB3EE5}|MyStockApp_EntityFW\\MyStockApp_EntityFW.csproj|solutionrelative:mystockapp_entityfw\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1A2EEC-9DC0-4A4F-BF4C-513FF0AB3EE5}|MyStockApp_EntityFW\\MyStockApp_EntityFW.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan12\\asp.net core mvc\\mystockapp_entityfw\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF1A2EEC-9DC0-4A4F-BF4C-513FF0AB3EE5}|MyStockApp_EntityFW\\MyStockApp_EntityFW.csproj|solutionrelative:mystockapp_entityfw\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2347C8BF-578C-4309-9F8A-8869687EBCFE}|MyStockApp\\MyStockApp.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan12\\asp.net core mvc\\mystockapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2347C8BF-578C-4309-9F8A-8869687EBCFE}|MyStockApp\\MyStockApp.csproj|solutionrelative:mystockapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2347C8BF-578C-4309-9F8A-8869687EBCFE}|MyStockApp\\MyStockApp.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan12\\asp.net core mvc\\mystockapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2347C8BF-578C-4309-9F8A-8869687EBCFE}|MyStockApp\\MyStockApp.csproj|solutionrelative:mystockapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{804AE475-0EFC-437F-81CA-81761946BEB3}|DemoWebApp\\DemoWebApp.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan12\\asp.net core mvc\\demowebapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{804AE475-0EFC-437F-81CA-81761946BEB3}|DemoWebApp\\DemoWebApp.csproj|solutionrelative:demowebapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09725B7-712A-4C47-8150-3F066AC13374}|Demo\\Demo.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan12\\asp.net core mvc\\demo\\models\\homemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09725B7-712A-4C47-8150-3F066AC13374}|Demo\\Demo.csproj|solutionrelative:demo\\models\\homemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09725B7-712A-4C47-8150-3F066AC13374}|Demo\\Demo.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan12\\asp.net core mvc\\demo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09725B7-712A-4C47-8150-3F066AC13374}|Demo\\Demo.csproj|solutionrelative:demo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09725B7-712A-4C47-8150-3F066AC13374}|Demo\\Demo.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan12\\asp.net core mvc\\demo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F09725B7-712A-4C47-8150-3F066AC13374}|Demo\\Demo.csproj|solutionrelative:demo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09725B7-712A-4C47-8150-3F066AC13374}|Demo\\Demo.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan12\\asp.net core mvc\\demo\\demo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F09725B7-712A-4C47-8150-3F066AC13374}|Demo\\Demo.csproj|solutionrelative:demo\\demo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09725B7-712A-4C47-8150-3F066AC13374}|Demo\\Demo.csproj|c:\\users\\hagia\\documents\\c#\\baitap_tuan12\\asp.net core mvc\\demo\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F09725B7-712A-4C47-8150-3F066AC13374}|Demo\\Demo.csproj|solutionrelative:demo\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan12\\ASP.NET Core MVC\\MyStockApp_EntityFW\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyStockApp_EntityFW\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan12\\ASP.NET Core MVC\\MyStockApp_EntityFW\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MyStockApp_EntityFW\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T19:42:39.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan12\\ASP.NET Core MVC\\MyStockApp_EntityFW\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "MyStockApp_EntityFW\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan12\\ASP.NET Core MVC\\MyStockApp_EntityFW\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "MyStockApp_EntityFW\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T19:26:42.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan12\\ASP.NET Core MVC\\MyStockApp_EntityFW\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "MyStockApp_EntityFW\\Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan12\\ASP.NET Core MVC\\MyStockApp_EntityFW\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "MyStockApp_EntityFW\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T19:25:34.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan12\\ASP.NET Core MVC\\MyStockApp_EntityFW\\Program.cs",
+              "RelativeDocumentMoniker": "MyStockApp_EntityFW\\Program.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan12\\ASP.NET Core MVC\\MyStockApp_EntityFW\\Program.cs",
+              "RelativeToolTip": "MyStockApp_EntityFW\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T18:55:22.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan12\\ASP.NET Core MVC\\MyStockApp_EntityFW\\appsettings.json",
+              "RelativeDocumentMoniker": "MyStockApp_EntityFW\\appsettings.json",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan12\\ASP.NET Core MVC\\MyStockApp_EntityFW\\appsettings.json",
+              "RelativeToolTip": "MyStockApp_EntityFW\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-26T18:14:18.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyStockApp_EntityFW",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan12\\ASP.NET Core MVC\\MyStockApp_EntityFW\\MyStockApp_EntityFW.csproj",
+              "RelativeDocumentMoniker": "MyStockApp_EntityFW\\MyStockApp_EntityFW.csproj",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan12\\ASP.NET Core MVC\\MyStockApp_EntityFW\\MyStockApp_EntityFW.csproj",
+              "RelativeToolTip": "MyStockApp_EntityFW\\MyStockApp_EntityFW.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-26T18:41:42.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan12\\ASP.NET Core MVC\\DemoWebApp\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DemoWebApp\\Views\\Home\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan12\\ASP.NET Core MVC\\DemoWebApp\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "DemoWebApp\\Views\\Home\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T16:41:29.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan12\\ASP.NET Core MVC\\DemoWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DemoWebApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan12\\ASP.NET Core MVC\\DemoWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DemoWebApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T16:24:58.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan12\\ASP.NET Core MVC\\MyStockApp_EntityFW\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "MyStockApp_EntityFW\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan12\\ASP.NET Core MVC\\MyStockApp_EntityFW\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "MyStockApp_EntityFW\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T19:44:06.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MyStockContext.cs",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan12\\ASP.NET Core MVC\\MyStockApp_EntityFW\\Models\\MyStockContext.cs",
+              "RelativeDocumentMoniker": "MyStockApp_EntityFW\\Models\\MyStockContext.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan12\\ASP.NET Core MVC\\MyStockApp_EntityFW\\Models\\MyStockContext.cs",
+              "RelativeToolTip": "MyStockApp_EntityFW\\Models\\MyStockContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T19:44:09.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan12\\ASP.NET Core MVC\\MyStockApp_EntityFW\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "MyStockApp_EntityFW\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan12\\ASP.NET Core MVC\\MyStockApp_EntityFW\\Models\\Product.cs",
+              "RelativeToolTip": "MyStockApp_EntityFW\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T19:44:10.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan12\\ASP.NET Core MVC\\MyStockApp_EntityFW\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MyStockApp_EntityFW\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan12\\ASP.NET Core MVC\\MyStockApp_EntityFW\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MyStockApp_EntityFW\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T19:42:44.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan12\\ASP.NET Core MVC\\DemoWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "DemoWebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan12\\ASP.NET Core MVC\\DemoWebApp\\Program.cs",
+              "RelativeToolTip": "DemoWebApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T19:40:21.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan12\\ASP.NET Core MVC\\DemoWebApp\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "DemoWebApp\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan12\\ASP.NET Core MVC\\DemoWebApp\\Models\\Product.cs",
+              "RelativeToolTip": "DemoWebApp\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T16:39:22.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomeModel.cs",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan12\\ASP.NET Core MVC\\DemoWebApp\\Models\\HomeModel.cs",
+              "RelativeDocumentMoniker": "DemoWebApp\\Models\\HomeModel.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan12\\ASP.NET Core MVC\\DemoWebApp\\Models\\HomeModel.cs",
+              "RelativeToolTip": "DemoWebApp\\Models\\HomeModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T16:26:00.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan12\\ASP.NET Core MVC\\DemoWebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DemoWebApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan12\\ASP.NET Core MVC\\DemoWebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DemoWebApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswDMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T16:25:44.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductEditModel.cs",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan12\\ASP.NET Core MVC\\DemoWebApp\\Models\\ProductEditModel.cs",
+              "RelativeDocumentMoniker": "DemoWebApp\\Models\\ProductEditModel.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan12\\ASP.NET Core MVC\\DemoWebApp\\Models\\ProductEditModel.cs",
+              "RelativeToolTip": "DemoWebApp\\Models\\ProductEditModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T16:51:54.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan12\\ASP.NET Core MVC\\MyStockApp_EntityFW\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "MyStockApp_EntityFW\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan12\\ASP.NET Core MVC\\MyStockApp_EntityFW\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "MyStockApp_EntityFW\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAowGYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T19:00:03.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan12\\ASP.NET Core MVC\\DemoWebApp\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "DemoWebApp\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan12\\ASP.NET Core MVC\\DemoWebApp\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "DemoWebApp\\Views\\Home\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T16:52:32.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan12\\ASP.NET Core MVC\\MyStockApp_EntityFW\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MyStockApp_EntityFW\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan12\\ASP.NET Core MVC\\MyStockApp_EntityFW\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MyStockApp_EntityFW\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T19:29:06.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan12\\ASP.NET Core MVC\\MyStockApp_EntityFW\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyStockApp_EntityFW\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan12\\ASP.NET Core MVC\\MyStockApp_EntityFW\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "MyStockApp_EntityFW\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T19:23:43.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan12\\ASP.NET Core MVC\\MyStockApp_EntityFW\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MyStockApp_EntityFW\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan12\\ASP.NET Core MVC\\MyStockApp_EntityFW\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "MyStockApp_EntityFW\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T19:27:37.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan12\\ASP.NET Core MVC\\MyStockApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MyStockApp\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan12\\ASP.NET Core MVC\\MyStockApp\\appsettings.Development.json",
+              "RelativeToolTip": "MyStockApp\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-26T18:39:01.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan12\\ASP.NET Core MVC\\MyStockApp\\appsettings.json",
+              "RelativeDocumentMoniker": "MyStockApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan12\\ASP.NET Core MVC\\MyStockApp\\appsettings.json",
+              "RelativeToolTip": "MyStockApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-26T17:56:44.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan12\\ASP.NET Core MVC\\DemoWebApp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "DemoWebApp\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan12\\ASP.NET Core MVC\\DemoWebApp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "DemoWebApp\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T17:21:34.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Demo.csproj",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan12\\ASP.NET Core MVC\\Demo\\Demo.csproj",
+              "RelativeDocumentMoniker": "Demo\\Demo.csproj",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan12\\ASP.NET Core MVC\\Demo\\Demo.csproj",
+              "RelativeToolTip": "Demo\\Demo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-26T16:22:57.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan12\\ASP.NET Core MVC\\Demo\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Demo\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan12\\ASP.NET Core MVC\\Demo\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Demo\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T16:22:04.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "HomeModel.cs",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan12\\ASP.NET Core MVC\\Demo\\Models\\HomeModel.cs",
+              "RelativeDocumentMoniker": "Demo\\Models\\HomeModel.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan12\\ASP.NET Core MVC\\Demo\\Models\\HomeModel.cs",
+              "RelativeToolTip": "Demo\\Models\\HomeModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T16:12:16.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan12\\ASP.NET Core MVC\\Demo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Demo\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan12\\ASP.NET Core MVC\\Demo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Demo\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T16:09:27.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan12\\ASP.NET Core MVC\\Demo\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Demo\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hagia\\Documents\\C#\\baitap_tuan12\\ASP.NET Core MVC\\Demo\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Demo\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T16:08:50.653Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

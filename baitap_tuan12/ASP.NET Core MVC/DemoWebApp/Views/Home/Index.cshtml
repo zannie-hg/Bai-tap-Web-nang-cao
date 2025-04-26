@@ -1,0 +1,31 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p><h2 style="color:palegreen">@Model.Message</h2></p>
+</div>
+<div class="text-start">
+    <h3>Razor Syntax</h3>
+
+    @{
+        var greeting = "Welcome to ASP.NET MVC Core";
+        var weekDay = DateTime.Now.DayOfWeek;
+    }
+
+    @{
+        var ISBNNo = "978-1-80056-718-4";
+    }
+
+    @{
+        var pro = new { ProductID = 1, ProductName = "Coffee" };
+    }
+    <p>ProductID: @pro.ProductID</p>
+    <p>Product Name: @pro.ProductName</p>
+    <p>@greeting</p>
+    <p>@weekDay</p>
+    <!-- <p>ISBN@ISBNNo</p> --> <!-- Does not work -->
+    <p>ISBN@(@ISBNNo)</p>
+
+</div>
